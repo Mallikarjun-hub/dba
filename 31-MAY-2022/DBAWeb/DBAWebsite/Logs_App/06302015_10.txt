@@ -1,0 +1,198 @@
+<Activity>
+<DateTime>6/30/2015 10:18:06 AM</DateTime>
+<SessionID>4idkubmgjrxvpg0y4x3xrcot</SessionID>
+<Summary>Some info was loged on Tuesday, June 30, 2015 10:18:06 AM</Summary>
+<Page>ustxri00dbamgt/dbaweb/DecommissionServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: decommission home screen Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/DecommissionServerFormHomeScreen.aspx</URL>
+<HostIP>10.172.203.57</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>43.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/30/2015 10:18:14 AM</DateTime>
+<SessionID>4idkubmgjrxvpg0y4x3xrcot</SessionID>
+<Summary>Some info was loged on Tuesday, June 30, 2015 10:18:14 AM</Summary>
+<Page>ustxri00dbamgt/dbaweb/DecommissionServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: decommission home screen Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/dbaweb/DecommissionServerFormHomeScreen.aspx</URL>
+<HostIP>10.172.203.57</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/DecommissionServerFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>43.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/30/2015 10:18:24 AM</DateTime>
+<SessionID>4idkubmgjrxvpg0y4x3xrcot</SessionID>
+<Summary>Some info was loged on Tuesday, June 30, 2015 10:18:24 AM</Summary>
+<Page>ustxri00dbamgt/dbaweb/DecommissionServerForm.aspx</Page>
+
+<Message>Successfully sent mail</Message>
+
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/30/2015 10:26:18 AM</DateTime>
+<SessionID>4idkubmgjrxvpg0y4x3xrcot</SessionID>
+<Summary>Some info was loged on Tuesday, June 30, 2015 10:26:18 AM</Summary>
+<Page>ustxri00dbamgt/dbaweb/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Old Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>10.172.203.57</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>43.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/30/2015 10:26:18 AM</DateTime>
+<SessionID>4idkubmgjrxvpg0y4x3xrcot</SessionID>
+<Summary>Some info was loged on Tuesday, June 30, 2015 10:26:18 AM</Summary>
+<Page>ustxri00dbamgt/dbaweb/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: New Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>10.172.203.57</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>43.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/30/2015 10:26:30 AM</DateTime>
+<SessionID>4idkubmgjrxvpg0y4x3xrcot</SessionID>
+<Summary>Some info was loged on Tuesday, June 30, 2015 10:26:30 AM</Summary>
+<Page>ustxri00dbamgt/dbaweb/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Old Server Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/dbaweb/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>10.172.203.57</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/UpgradeServerFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>43.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/30/2015 10:26:30 AM</DateTime>
+<SessionID>4idkubmgjrxvpg0y4x3xrcot</SessionID>
+<Summary>Some info was loged on Tuesday, June 30, 2015 10:26:30 AM</Summary>
+<Page>ustxri00dbamgt/dbaweb/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: New Server Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/dbaweb/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>10.172.203.57</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/UpgradeServerFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>43.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/30/2015 10:26:55 AM</DateTime>
+<SessionID>4idkubmgjrxvpg0y4x3xrcot</SessionID>
+<Summary>Some info was loged on Tuesday, June 30, 2015 10:26:55 AM</Summary>
+<Page>ustxri00dbamgt/dbaweb/UpgradeServerForm.aspx</Page>
+
+<Message>Successfully sent mail</Message>
+
+
+
+</Activity>
+

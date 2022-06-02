@@ -1,0 +1,58 @@
+<Activity>
+<DateTime>7/7/2016 11:57:06 AM</DateTime>
+<SessionID>grlozobb4wdxhha5xbzdzweq</SessionID>
+<Summary>Some info was loged on Thursday, July 7, 2016 11:57:06 AM</Summary>
+<Page>ustxri00dbamgt/dbaweb/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Old Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>172.27.191.95</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/InventoryReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>51.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>7/7/2016 11:57:06 AM</DateTime>
+<SessionID>grlozobb4wdxhha5xbzdzweq</SessionID>
+<Summary>Some info was loged on Thursday, July 7, 2016 11:57:06 AM</Summary>
+<Page>ustxri00dbamgt/dbaweb/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: New Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>172.27.191.95</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/InventoryReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>51.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+

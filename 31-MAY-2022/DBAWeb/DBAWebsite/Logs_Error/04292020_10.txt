@@ -1,0 +1,140 @@
+<Exception>
+<DateTime>4/29/2020 10:41:42 AM</DateTime>
+<SessionID>t4mrowr3weizw5gu0dsr13vq</SessionID>
+<Summary>An unhandled exception occured on Wednesday, April 29, 2020 10:41:42 AM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateInventoryForm.aspx</URL>
+<HostIP>10.191.61.78</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Data.SqlClient.SqlException (0x80131904): Violation of PRIMARY KEY constraint 'PK_Inventory_ServerName'. Cannot insert duplicate key in object 'dbo.InventoryForm'. The duplicate key value is (USTXCRMRM50I).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DBAWebsite.CreateInventory.submit_Click(Object sender, EventArgs e) in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateInventoryForm.aspx.cs:line 444
+ClientConnectionId:b14b4933-535a-4b83-ae11-6565660616b8
+Error Number:2627,State:1,Class:14</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>4/29/2020 10:44:31 AM</DateTime>
+<SessionID>t4mrowr3weizw5gu0dsr13vq</SessionID>
+<Summary>An unhandled exception occured on Wednesday, April 29, 2020 10:44:31 AM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildForm.aspx</URL>
+<HostIP>10.191.61.78</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Data.SqlClient.SqlException (0x80131904): Violation of PRIMARY KEY constraint 'PK_ServerName'. Cannot insert duplicate key in object 'dbo.BUILDFORM'. The duplicate key value is (USTXCRMRM50I).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DBAWebsite.CreateBuild.submit_Click(Object sender, EventArgs e) in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 1298
+ClientConnectionId:b14b4933-535a-4b83-ae11-6565660616b8
+Error Number:2627,State:1,Class:14</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>4/29/2020 10:47:03 AM</DateTime>
+<SessionID>t4mrowr3weizw5gu0dsr13vq</SessionID>
+<Summary>An unhandled exception occured on Wednesday, April 29, 2020 10:47:03 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/BuildQAComparisonReport.aspx</URL>
+<HostIP>10.191.61.78</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/BuildQAComparisonReportHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.ArgumentException: Column 'AccountsStoredS' does not belong to table .
+   at System.Data.DataRow.get_Item(String columnName)
+   at DBAWebsite.BuildQAComparisonReport.buildQAComparisonReport_build_lables_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\BuildQAComparisonReport.aspx.cs:line 164</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>4/29/2020 10:49:06 AM</DateTime>
+<SessionID>t4mrowr3weizw5gu0dsr13vq</SessionID>
+<Summary>An unhandled exception occured on Wednesday, April 29, 2020 10:49:06 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/BuildQAComparisonReport.aspx</URL>
+<HostIP>10.191.61.78</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/BuildQAComparisonReportHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.ArgumentException: Column 'AccountsStoredS' does not belong to table .
+   at System.Data.DataRow.get_Item(String columnName)
+   at DBAWebsite.BuildQAComparisonReport.buildQAComparisonReport_build_lables_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\BuildQAComparisonReport.aspx.cs:line 164</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>4/29/2020 10:49:20 AM</DateTime>
+<SessionID>t4mrowr3weizw5gu0dsr13vq</SessionID>
+<Summary>An unhandled exception occured on Wednesday, April 29, 2020 10:49:20 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/BuildQAComparisonReport.aspx</URL>
+<HostIP>10.191.61.78</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/BuildQAComparisonReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.ArgumentException: Column 'AccountsStoredS' does not belong to table .
+   at System.Data.DataRow.get_Item(String columnName)
+   at DBAWebsite.BuildQAComparisonReport.buildQAComparisonReport_build_lables_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\BuildQAComparisonReport.aspx.cs:line 164</ErrorMessage>
+
+</Exception>
+

@@ -1,0 +1,140 @@
+<Activity>
+<DateTime>8/1/2019 2:35:16 PM</DateTime>
+<SessionID>0ymky0kymbzc0vrembgk3zu0</SessionID>
+<Summary>Some info was loged on Thursday, August 1, 2019 2:35:16 PM</Summary>
+<Page>ustxri00dbamgt/dbaweb/DecommissionServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: decommission home screen Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/DecommissionServerFormHomeScreen.aspx</URL>
+<HostIP>10.161.174.172</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>56.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>8/1/2019 2:53:08 PM</DateTime>
+<SessionID>0ymky0kymbzc0vrembgk3zu0</SessionID>
+<Summary>Some info was loged on Thursday, August 1, 2019 2:53:08 PM</Summary>
+<Page>ustxri00dbamgt/dbaweb/DecommissionServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: decommission home screen Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/dbaweb/DecommissionServerFormHomeScreen.aspx</URL>
+<HostIP>10.161.174.172</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/DecommissionServerFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>56.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>8/1/2019 2:53:31 PM</DateTime>
+<SessionID>0ymky0kymbzc0vrembgk3zu0</SessionID>
+<Summary>Some info was loged on Thursday, August 1, 2019 2:53:31 PM</Summary>
+<Page>ustxri00dbamgt/dbaweb/DecommissionServerForm.aspx</Page>
+
+<Message>Successfully sent mail</Message>
+
+
+
+</Activity>
+
+<Activity>
+<DateTime>8/1/2019 2:54:22 PM</DateTime>
+<SessionID>0ymky0kymbzc0vrembgk3zu0</SessionID>
+<Summary>Some info was loged on Thursday, August 1, 2019 2:54:22 PM</Summary>
+<Page>ustxri00dbamgt/DBAWeb/DecommissionServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: decommission home screen Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/DBAWeb/DecommissionServerFormHomeScreen.aspx</URL>
+<HostIP>10.161.174.172</HostIP>
+<ReffererURL>ustxri00dbamgt/DBAWeb/DecommissionServerForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>56.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>8/1/2019 2:54:43 PM</DateTime>
+<SessionID>0ymky0kymbzc0vrembgk3zu0</SessionID>
+<Summary>Some info was loged on Thursday, August 1, 2019 2:54:43 PM</Summary>
+<Page>ustxri00dbamgt/DBAWeb/DecommissionServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: decommission home screen Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/DBAWeb/DecommissionServerFormHomeScreen.aspx</URL>
+<HostIP>10.161.174.172</HostIP>
+<ReffererURL>ustxri00dbamgt/DBAWeb/DecommissionServerFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>56.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>8/1/2019 2:54:56 PM</DateTime>
+<SessionID>0ymky0kymbzc0vrembgk3zu0</SessionID>
+<Summary>Some info was loged on Thursday, August 1, 2019 2:54:56 PM</Summary>
+<Page>ustxri00dbamgt/DBAWeb/DecommissionServerForm.aspx</Page>
+
+<Message>Successfully sent mail</Message>
+
+
+
+</Activity>
+

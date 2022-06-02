@@ -1,0 +1,29 @@
+<Activity>
+<DateTime>4/13/2016 2:24:41 PM</DateTime>
+<SessionID>kjulhrtgu3ndncn43lex53xn</SessionID>
+<Summary>Some info was loged on Wednesday, April 13, 2016 2:24:41 PM</Summary>
+<Page>ustxri00dbamgt/dbaweb/EditInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/EditInventoryFormHomeScreen.aspx</URL>
+<HostIP>10.172.202.30</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/OSInfoReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>49.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+

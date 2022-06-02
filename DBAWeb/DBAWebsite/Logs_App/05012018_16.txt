@@ -1,0 +1,203 @@
+<Activity>
+<DateTime>5/1/2018 4:22:11 PM</DateTime>
+<SessionID>nfjiwfiw0leyrqlam2gey1b0</SessionID>
+<Summary>Some info was loged on Tuesday, May 1, 2018 4:22:11 PM</Summary>
+<Page>ustxri00dbamgt/dbaweb/EditInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/EditInventoryFormHomeScreen.aspx</URL>
+<HostIP>10.161.174.140</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/EditBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>63.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/1/2018 4:22:14 PM</DateTime>
+<SessionID>nfjiwfiw0leyrqlam2gey1b0</SessionID>
+<Summary>Some info was loged on Tuesday, May 1, 2018 4:22:14 PM</Summary>
+<Page>ustxri00dbamgt/dbaweb/EditInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/dbaweb/EditInventoryFormHomeScreen.aspx</URL>
+<HostIP>10.161.174.140</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/EditInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>63.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/1/2018 4:22:33 PM</DateTime>
+<SessionID>nfjiwfiw0leyrqlam2gey1b0</SessionID>
+<Summary>Some info was loged on Tuesday, May 1, 2018 4:22:33 PM</Summary>
+<Page>ustxri00dbamgt/dbaweb/EditInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/EditInventoryFormHomeScreen.aspx</URL>
+<HostIP>10.161.174.140</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/EditBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>63.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/1/2018 4:24:33 PM</DateTime>
+<SessionID>s2qe5s5al0mjda1h1sbnssmc</SessionID>
+<Summary>Some info was loged on Tuesday, May 1, 2018 4:24:33 PM</Summary>
+<Page>ustxri00dbamgt/dbaweb/EditInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/EditInventoryFormHomeScreen.aspx</URL>
+<HostIP>10.161.174.134</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/EditBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>56.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/1/2018 4:24:36 PM</DateTime>
+<SessionID>s2qe5s5al0mjda1h1sbnssmc</SessionID>
+<Summary>Some info was loged on Tuesday, May 1, 2018 4:24:36 PM</Summary>
+<Page>ustxri00dbamgt/dbaweb/EditInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/dbaweb/EditInventoryFormHomeScreen.aspx</URL>
+<HostIP>10.161.174.134</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/EditInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>56.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/1/2018 4:25:57 PM</DateTime>
+<SessionID>s2qe5s5al0mjda1h1sbnssmc</SessionID>
+<Summary>Some info was loged on Tuesday, May 1, 2018 4:25:57 PM</Summary>
+<Page>ustxri00dbamgt/DBAWeb/EditInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/DBAWeb/EditInventoryFormHomeScreen.aspx</URL>
+<HostIP>10.161.174.134</HostIP>
+<ReffererURL>ustxri00dbamgt/DBAWeb/EditInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>56.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/1/2018 4:26:00 PM</DateTime>
+<SessionID>s2qe5s5al0mjda1h1sbnssmc</SessionID>
+<Summary>Some info was loged on Tuesday, May 1, 2018 4:26:00 PM</Summary>
+<Page>ustxri00dbamgt/DBAWeb/EditInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/DBAWeb/EditInventoryFormHomeScreen.aspx</URL>
+<HostIP>10.161.174.134</HostIP>
+<ReffererURL>ustxri00dbamgt/DBAWeb/EditInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>56.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+

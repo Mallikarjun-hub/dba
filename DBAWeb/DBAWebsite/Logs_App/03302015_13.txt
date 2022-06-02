@@ -1,0 +1,174 @@
+<Activity>
+<DateTime>3/30/2015 1:33:01 PM</DateTime>
+<SessionID>to2pvyrhbmjp13irgqfoderh</SessionID>
+<Summary>Some info was loged on Monday, March 30, 2015 1:33:01 PM</Summary>
+<Page>localhost/LicenseReport.aspx</Page>
+
+<Message>Successful binding on: License_Category Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/LicenseReport.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/LicenseReportHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/30/2015 1:33:01 PM</DateTime>
+<SessionID>to2pvyrhbmjp13irgqfoderh</SessionID>
+<Summary>Some info was loged on Monday, March 30, 2015 1:33:01 PM</Summary>
+<Page>localhost/LicenseReport.aspx</Page>
+
+<Message>Successful binding on: contactPerson Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/LicenseReport.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/LicenseReportHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/30/2015 1:38:30 PM</DateTime>
+<SessionID>2skm1fxe0laawdquiriibtbp</SessionID>
+<Summary>Some info was loged on Monday, March 30, 2015 1:38:30 PM</Summary>
+<Page>localhost/LicenseReport.aspx</Page>
+
+<Message>Successful binding on: License_Category Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/LicenseReport.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/LicenseReportHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/30/2015 1:38:30 PM</DateTime>
+<SessionID>2skm1fxe0laawdquiriibtbp</SessionID>
+<Summary>Some info was loged on Monday, March 30, 2015 1:38:30 PM</Summary>
+<Page>localhost/LicenseReport.aspx</Page>
+
+<Message>Successful binding on: contactPerson Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/LicenseReport.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/LicenseReportHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/30/2015 1:40:03 PM</DateTime>
+<SessionID>2skm1fxe0laawdquiriibtbp</SessionID>
+<Summary>Some info was loged on Monday, March 30, 2015 1:40:03 PM</Summary>
+<Page>localhost/LicenseReport.aspx</Page>
+
+<Message>Successful binding on: License_Category Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/LicenseReport.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/LicenseReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>2</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/30/2015 1:40:03 PM</DateTime>
+<SessionID>2skm1fxe0laawdquiriibtbp</SessionID>
+<Summary>Some info was loged on Monday, March 30, 2015 1:40:03 PM</Summary>
+<Page>localhost/LicenseReport.aspx</Page>
+
+<Message>Successful binding on: contactPerson Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/LicenseReport.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/LicenseReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>2</ElementsInCache>
+
+
+</Activity>
+

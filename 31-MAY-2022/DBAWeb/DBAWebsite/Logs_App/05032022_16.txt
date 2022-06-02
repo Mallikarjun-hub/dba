@@ -1,0 +1,406 @@
+<Activity>
+<DateTime>5/3/2022 4:04:56 PM</DateTime>
+<SessionID>ampnf2zriprltqwjj4zehewx</SessionID>
+<Summary>Some info was loged on Tuesday, May 3, 2022 4:04:56 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateInventoryFormHomeScreen.aspx</URL>
+<HostIP>10.162.20.197</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/Default.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>100.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/3/2022 4:04:56 PM</DateTime>
+<SessionID>ampnf2zriprltqwjj4zehewx</SessionID>
+<Summary>Some info was loged on Tuesday, May 3, 2022 4:04:56 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateInventoryFormHomeScreen.aspx</URL>
+<HostIP>10.162.20.197</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/Default.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>100.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/3/2022 4:05:22 PM</DateTime>
+<SessionID>ampnf2zriprltqwjj4zehewx</SessionID>
+<Summary>Some info was loged on Tuesday, May 3, 2022 4:05:22 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: QA home screen Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</URL>
+<HostIP>10.162.20.197</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>100.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/3/2022 4:05:37 PM</DateTime>
+<SessionID>ampnf2zriprltqwjj4zehewx</SessionID>
+<Summary>Some info was loged on Tuesday, May 3, 2022 4:05:37 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: QA home screen Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</URL>
+<HostIP>10.162.20.197</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>100.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/3/2022 4:05:37 PM</DateTime>
+<SessionID>ampnf2zriprltqwjj4zehewx</SessionID>
+<Summary>Some info was loged on Tuesday, May 3, 2022 4:05:37 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryForm.aspx</URL>
+<HostIP>10.162.20.197</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>100.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/3/2022 4:05:37 PM</DateTime>
+<SessionID>ampnf2zriprltqwjj4zehewx</SessionID>
+<Summary>Some info was loged on Tuesday, May 3, 2022 4:05:37 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryForm.aspx</URL>
+<HostIP>10.162.20.197</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>100.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/3/2022 4:05:37 PM</DateTime>
+<SessionID>ampnf2zriprltqwjj4zehewx</SessionID>
+<Summary>Some info was loged on Tuesday, May 3, 2022 4:05:37 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryForm.aspx</URL>
+<HostIP>10.162.20.197</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>100.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/3/2022 4:05:37 PM</DateTime>
+<SessionID>ampnf2zriprltqwjj4zehewx</SessionID>
+<Summary>Some info was loged on Tuesday, May 3, 2022 4:05:37 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryForm.aspx</URL>
+<HostIP>10.162.20.197</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>100.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/3/2022 4:05:37 PM</DateTime>
+<SessionID>ampnf2zriprltqwjj4zehewx</SessionID>
+<Summary>Some info was loged on Tuesday, May 3, 2022 4:05:37 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryForm.aspx</URL>
+<HostIP>10.162.20.197</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>100.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/3/2022 4:05:37 PM</DateTime>
+<SessionID>ampnf2zriprltqwjj4zehewx</SessionID>
+<Summary>Some info was loged on Tuesday, May 3, 2022 4:05:37 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryForm.aspx</URL>
+<HostIP>10.162.20.197</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>100.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/3/2022 4:05:37 PM</DateTime>
+<SessionID>ampnf2zriprltqwjj4zehewx</SessionID>
+<Summary>Some info was loged on Tuesday, May 3, 2022 4:05:37 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryForm.aspx</URL>
+<HostIP>10.162.20.197</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>100.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/3/2022 4:05:37 PM</DateTime>
+<SessionID>ampnf2zriprltqwjj4zehewx</SessionID>
+<Summary>Some info was loged on Tuesday, May 3, 2022 4:05:37 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryForm.aspx</URL>
+<HostIP>10.162.20.197</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>100.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/3/2022 4:05:37 PM</DateTime>
+<SessionID>ampnf2zriprltqwjj4zehewx</SessionID>
+<Summary>Some info was loged on Tuesday, May 3, 2022 4:05:37 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryForm.aspx</URL>
+<HostIP>10.162.20.197</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>100.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/3/2022 4:05:37 PM</DateTime>
+<SessionID>ampnf2zriprltqwjj4zehewx</SessionID>
+<Summary>Some info was loged on Tuesday, May 3, 2022 4:05:37 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryForm.aspx</URL>
+<HostIP>10.162.20.197</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>100.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+

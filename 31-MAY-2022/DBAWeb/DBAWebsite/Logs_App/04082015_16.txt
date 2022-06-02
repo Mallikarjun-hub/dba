@@ -1,0 +1,174 @@
+<Activity>
+<DateTime>4/8/2015 4:58:02 PM</DateTime>
+<SessionID>ivutbbezb3pli2wy1j01zzc2</SessionID>
+<Summary>Some info was loged on Wednesday, April 08, 2015 4:58:02 PM</Summary>
+<Page>localhost/CreateInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateInventoryFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>4/8/2015 4:58:07 PM</DateTime>
+<SessionID>ivutbbezb3pli2wy1j01zzc2</SessionID>
+<Summary>Some info was loged on Wednesday, April 08, 2015 4:58:07 PM</Summary>
+<Page>localhost/CreateInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/CreateInventoryFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>4/8/2015 4:58:08 PM</DateTime>
+<SessionID>ivutbbezb3pli2wy1j01zzc2</SessionID>
+<Summary>Some info was loged on Wednesday, April 08, 2015 4:58:08 PM</Summary>
+<Page>localhost/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateInventoryForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>4/8/2015 4:59:14 PM</DateTime>
+<SessionID>qqzp4nqs0qsaqeycab35obvx</SessionID>
+<Summary>Some info was loged on Wednesday, April 08, 2015 4:59:14 PM</Summary>
+<Page>localhost/CreateInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateInventoryFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>4/8/2015 4:59:16 PM</DateTime>
+<SessionID>qqzp4nqs0qsaqeycab35obvx</SessionID>
+<Summary>Some info was loged on Wednesday, April 08, 2015 4:59:16 PM</Summary>
+<Page>localhost/CreateInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/CreateInventoryFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>4/8/2015 4:59:17 PM</DateTime>
+<SessionID>qqzp4nqs0qsaqeycab35obvx</SessionID>
+<Summary>Some info was loged on Wednesday, April 08, 2015 4:59:17 PM</Summary>
+<Page>localhost/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateInventoryForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+

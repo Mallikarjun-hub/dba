@@ -1,0 +1,296 @@
+<Exception>
+<DateTime>10/19/2015 12:19:19 PM</DateTime>
+<SessionID>hqnr0yf0f4vjh1m40ypsd4go</SessionID>
+<Summary>An unhandled exception occured on Monday, October 19, 2015 12:19:19 PM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.172.203.22</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>46.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Data.SqlClient.SqlException (0x80131904): Violation of PRIMARY KEY constraint 'PK_Inventory_ServerName'. Cannot insert duplicate key in object 'dbo.InventoryForm'. The duplicate key value is (USTXCRAPPDBI).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DBAWebsite.CreateInventory.submit_Click(Object sender, EventArgs e) in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 438
+ClientConnectionId:b2479720-55b3-4a9c-a826-a6cdba3bf842
+Error Number:2627,State:1,Class:14</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>10/19/2015 12:21:34 PM</DateTime>
+<SessionID>hqnr0yf0f4vjh1m40ypsd4go</SessionID>
+<Summary>An unhandled exception occured on Monday, October 19, 2015 12:21:34 PM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/DBAWeb/CreateQAForm.aspx</URL>
+<HostIP>10.172.203.22</HostIP>
+<ReffererURL>ustxri00dbamgt/DBAWeb/CreateQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>46.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Data.SqlClient.SqlException (0x80131904): Violation of PRIMARY KEY constraint 'PK_QA_ServerName'. Cannot insert duplicate key in object 'dbo.QAFORM'. The duplicate key value is (USTXRIAPODBI).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DBAWebsite.CreateQAForm.submit_Click(Object sender, EventArgs e) in h:\DBAWebsite\CreateQAForm.aspx.cs:line 568
+ClientConnectionId:b2479720-55b3-4a9c-a826-a6cdba3bf842
+Error Number:2627,State:1,Class:14</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>10/19/2015 12:27:05 PM</DateTime>
+<SessionID>hqnr0yf0f4vjh1m40ypsd4go</SessionID>
+<Summary>An unhandled exception occured on Monday, October 19, 2015 12:27:05 PM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/DBAWeb/UpgradeServerForm.aspx</URL>
+<HostIP>10.172.203.22</HostIP>
+<ReffererURL>ustxri00dbamgt/DBAWeb/UpgradeServerForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>46.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Data.SqlClient.SqlException (0x80131904): Violation of PRIMARY KEY constraint 'PK_InventoryTracking'. Cannot insert duplicate key in object 'dbo.InventoryTracking'. The duplicate key value is (USTXRIAPODBI).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DBAWebsite.UpgradeServerForm.myBtn_Click(Object sender, EventArgs e) in h:\DBAWebsite\UpgradeServerForm.aspx.cs:line 299
+ClientConnectionId:b2479720-55b3-4a9c-a826-a6cdba3bf842
+Error Number:2627,State:1,Class:14</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>10/19/2015 12:33:02 PM</DateTime>
+<SessionID>hqnr0yf0f4vjh1m40ypsd4go</SessionID>
+<Summary>An unhandled exception occured on Monday, October 19, 2015 12:33:02 PM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/DBAWeb/CreateInventoryForm.aspx</URL>
+<HostIP>10.172.203.22</HostIP>
+<ReffererURL>ustxri00dbamgt/DBAWeb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>46.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Data.SqlClient.SqlException (0x80131904): Violation of PRIMARY KEY constraint 'PK_Inventory_ServerName'. Cannot insert duplicate key in object 'dbo.InventoryForm'. The duplicate key value is (USTXCRAPPDBI).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DBAWebsite.CreateInventory.submit_Click(Object sender, EventArgs e) in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 438
+ClientConnectionId:b2479720-55b3-4a9c-a826-a6cdba3bf842
+Error Number:2627,State:1,Class:14</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>10/19/2015 12:34:25 PM</DateTime>
+<SessionID>hqnr0yf0f4vjh1m40ypsd4go</SessionID>
+<Summary>An unhandled exception occured on Monday, October 19, 2015 12:34:25 PM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/DBAWeb/CreateBuildForm.aspx</URL>
+<HostIP>10.172.203.22</HostIP>
+<ReffererURL>ustxri00dbamgt/DBAWeb/CreateBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>46.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Data.SqlClient.SqlException (0x80131904): Violation of PRIMARY KEY constraint 'PK_ServerName'. Cannot insert duplicate key in object 'dbo.BUILDFORM'. The duplicate key value is (USTXCRAPPDBI).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DBAWebsite.CreateBuild.submit_Click(Object sender, EventArgs e) in h:\DBAWebsite\CreateBuildForm.aspx.cs:line 533
+ClientConnectionId:b2479720-55b3-4a9c-a826-a6cdba3bf842
+Error Number:2627,State:1,Class:14</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>10/19/2015 12:45:50 PM</DateTime>
+<SessionID>xvl2g51c1hmpiiag1cv4i1xw</SessionID>
+<Summary>An unhandled exception occured on Monday, October 19, 2015 12:45:50 PM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/dbaweb/DecommissionServerForm.aspx</URL>
+<HostIP>172.27.190.192</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/DecommissionServerForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>46.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.FormatException: Failed to convert parameter value from a String to a DateTime. ---> System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTime.Parse(String s, IFormatProvider provider)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType, Boolean& coercedToDataFeed, Boolean& typeChanged, Boolean allowStreaming)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType, Boolean& coercedToDataFeed, Boolean& typeChanged, Boolean allowStreaming)
+   at System.Data.SqlClient.SqlParameter.GetCoercedValue()
+   at System.Data.SqlClient.SqlParameter.Validate(Int32 index, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.BuildParamList(TdsParser parser, SqlParameterCollection parameters)
+   at System.Data.SqlClient.SqlCommand.BuildExecuteSql(CommandBehavior behavior, String commandText, SqlParameterCollection parameters, _SqlRPC& rpc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DBAWebsite.DecommissionServerForm.submit_Click(Object sender, EventArgs e) in h:\DBAWebsite\DecommissionServerForm.aspx.cs:line 195</ErrorMessage>
+<InnerException>System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTime.Parse(String s, IFormatProvider provider)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType, Boolean& coercedToDataFeed, Boolean& typeChanged, Boolean allowStreaming)</InnerException>
+
+</Exception>
+
+<Exception>
+<DateTime>10/19/2015 12:45:59 PM</DateTime>
+<SessionID>xvl2g51c1hmpiiag1cv4i1xw</SessionID>
+<Summary>An unhandled exception occured on Monday, October 19, 2015 12:45:59 PM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/DBAWeb/DecommissionServerForm.aspx</URL>
+<HostIP>172.27.190.192</HostIP>
+<ReffererURL>ustxri00dbamgt/DBAWeb/DecommissionServerForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>46.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.FormatException: Failed to convert parameter value from a String to a DateTime. ---> System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTime.Parse(String s, IFormatProvider provider)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType, Boolean& coercedToDataFeed, Boolean& typeChanged, Boolean allowStreaming)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType, Boolean& coercedToDataFeed, Boolean& typeChanged, Boolean allowStreaming)
+   at System.Data.SqlClient.SqlParameter.GetCoercedValue()
+   at System.Data.SqlClient.SqlParameter.Validate(Int32 index, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.BuildParamList(TdsParser parser, SqlParameterCollection parameters)
+   at System.Data.SqlClient.SqlCommand.BuildExecuteSql(CommandBehavior behavior, String commandText, SqlParameterCollection parameters, _SqlRPC& rpc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DBAWebsite.DecommissionServerForm.submit_Click(Object sender, EventArgs e) in h:\DBAWebsite\DecommissionServerForm.aspx.cs:line 195</ErrorMessage>
+<InnerException>System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTime.Parse(String s, IFormatProvider provider)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType, Boolean& coercedToDataFeed, Boolean& typeChanged, Boolean allowStreaming)</InnerException>
+
+</Exception>
+
+<Exception>
+<DateTime>10/19/2015 12:51:57 PM</DateTime>
+<SessionID>xvl2g51c1hmpiiag1cv4i1xw</SessionID>
+<Summary>An unhandled exception occured on Monday, October 19, 2015 12:51:57 PM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/DBAWeb/DecommissionServerForm.aspx</URL>
+<HostIP>172.27.190.192</HostIP>
+<ReffererURL>ustxri00dbamgt/DBAWeb/DecommissionServerForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>46.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.FormatException: Failed to convert parameter value from a String to a DateTime. ---> System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTime.Parse(String s, IFormatProvider provider)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType, Boolean& coercedToDataFeed, Boolean& typeChanged, Boolean allowStreaming)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType, Boolean& coercedToDataFeed, Boolean& typeChanged, Boolean allowStreaming)
+   at System.Data.SqlClient.SqlParameter.GetCoercedValue()
+   at System.Data.SqlClient.SqlParameter.Validate(Int32 index, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.BuildParamList(TdsParser parser, SqlParameterCollection parameters)
+   at System.Data.SqlClient.SqlCommand.BuildExecuteSql(CommandBehavior behavior, String commandText, SqlParameterCollection parameters, _SqlRPC& rpc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DBAWebsite.DecommissionServerForm.submit_Click(Object sender, EventArgs e) in h:\DBAWebsite\DecommissionServerForm.aspx.cs:line 195</ErrorMessage>
+<InnerException>System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTime.Parse(String s, IFormatProvider provider)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType, Boolean& coercedToDataFeed, Boolean& typeChanged, Boolean allowStreaming)</InnerException>
+
+</Exception>
+

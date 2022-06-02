@@ -1,0 +1,688 @@
+<Activity>
+<DateTime>6/13/2019 3:09:34 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Thursday, June 13, 2019 3:09:34 PM</Summary>
+<Page>localhost/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/13/2019 3:09:40 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Thursday, June 13, 2019 3:09:40 PM</Summary>
+<Page>localhost/CreateBuildFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: QA home screen Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/13/2019 3:09:40 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Thursday, June 13, 2019 3:09:40 PM</Summary>
+<Page>localhost/CreateBuildFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/13/2019 3:09:42 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Thursday, June 13, 2019 3:09:42 PM</Summary>
+<Page>localhost/CreateBuildFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: QA home screen Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/CreateBuildFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateBuildFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/13/2019 3:09:42 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Thursday, June 13, 2019 3:09:42 PM</Summary>
+<Page>localhost/CreateBuildFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/CreateBuildFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateBuildFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/13/2019 3:09:43 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Thursday, June 13, 2019 3:09:43 PM</Summary>
+<Page>localhost/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateBuildFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/13/2019 3:10:14 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Thursday, June 13, 2019 3:10:14 PM</Summary>
+<Page>localhost/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/13/2019 3:12:01 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Thursday, June 13, 2019 3:12:01 PM</Summary>
+<Page>localhost/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/13/2019 3:12:31 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Thursday, June 13, 2019 3:12:31 PM</Summary>
+<Page>localhost/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/13/2019 3:14:44 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Thursday, June 13, 2019 3:14:44 PM</Summary>
+<Page>localhost/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/13/2019 3:17:05 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Thursday, June 13, 2019 3:17:05 PM</Summary>
+<Page>localhost/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/13/2019 3:17:52 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Thursday, June 13, 2019 3:17:52 PM</Summary>
+<Page>localhost/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/13/2019 3:19:31 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Thursday, June 13, 2019 3:19:31 PM</Summary>
+<Page>localhost/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/13/2019 3:20:10 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Thursday, June 13, 2019 3:20:10 PM</Summary>
+<Page>localhost/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/13/2019 3:21:56 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Thursday, June 13, 2019 3:21:56 PM</Summary>
+<Page>localhost/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/13/2019 3:22:23 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Thursday, June 13, 2019 3:22:23 PM</Summary>
+<Page>localhost/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/13/2019 3:22:37 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Thursday, June 13, 2019 3:22:37 PM</Summary>
+<Page>localhost/CreateBuildFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: QA home screen Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/13/2019 3:22:37 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Thursday, June 13, 2019 3:22:37 PM</Summary>
+<Page>localhost/CreateBuildFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/13/2019 3:22:42 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Thursday, June 13, 2019 3:22:42 PM</Summary>
+<Page>localhost/CreateBuildFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: QA home screen Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/CreateBuildFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateBuildFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/13/2019 3:22:42 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Thursday, June 13, 2019 3:22:42 PM</Summary>
+<Page>localhost/CreateBuildFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/CreateBuildFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateBuildFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/13/2019 3:22:42 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Thursday, June 13, 2019 3:22:42 PM</Summary>
+<Page>localhost/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateBuildFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/13/2019 3:23:04 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Thursday, June 13, 2019 3:23:04 PM</Summary>
+<Page>localhost/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/13/2019 3:24:58 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Thursday, June 13, 2019 3:24:58 PM</Summary>
+<Page>localhost/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/13/2019 3:37:53 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Thursday, June 13, 2019 3:37:53 PM</Summary>
+<Page>localhost/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+

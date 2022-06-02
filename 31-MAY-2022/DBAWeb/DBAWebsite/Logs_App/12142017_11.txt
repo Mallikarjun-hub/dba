@@ -1,0 +1,290 @@
+<Activity>
+<DateTime>12/14/2017 11:17:34 AM</DateTime>
+<SessionID>1loewlcvlscwwi41njvt04rf</SessionID>
+<Summary>Some info was loged on Thursday, December 14, 2017 11:17:34 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>12/14/2017 11:17:39 AM</DateTime>
+<SessionID>1loewlcvlscwwi41njvt04rf</SessionID>
+<Summary>Some info was loged on Thursday, December 14, 2017 11:17:39 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>12/14/2017 11:17:43 AM</DateTime>
+<SessionID>1loewlcvlscwwi41njvt04rf</SessionID>
+<Summary>Some info was loged on Thursday, December 14, 2017 11:17:43 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>12/14/2017 11:17:47 AM</DateTime>
+<SessionID>1loewlcvlscwwi41njvt04rf</SessionID>
+<Summary>Some info was loged on Thursday, December 14, 2017 11:17:47 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>12/14/2017 11:17:52 AM</DateTime>
+<SessionID>1loewlcvlscwwi41njvt04rf</SessionID>
+<Summary>Some info was loged on Thursday, December 14, 2017 11:17:52 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>12/14/2017 11:17:56 AM</DateTime>
+<SessionID>1loewlcvlscwwi41njvt04rf</SessionID>
+<Summary>Some info was loged on Thursday, December 14, 2017 11:17:56 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>12/14/2017 11:18:08 AM</DateTime>
+<SessionID>1loewlcvlscwwi41njvt04rf</SessionID>
+<Summary>Some info was loged on Thursday, December 14, 2017 11:18:08 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>12/14/2017 11:18:55 AM</DateTime>
+<SessionID>1loewlcvlscwwi41njvt04rf</SessionID>
+<Summary>Some info was loged on Thursday, December 14, 2017 11:18:55 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>12/14/2017 11:19:02 AM</DateTime>
+<SessionID>1loewlcvlscwwi41njvt04rf</SessionID>
+<Summary>Some info was loged on Thursday, December 14, 2017 11:19:02 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>12/14/2017 11:19:34 AM</DateTime>
+<SessionID>1loewlcvlscwwi41njvt04rf</SessionID>
+<Summary>Some info was loged on Thursday, December 14, 2017 11:19:34 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+

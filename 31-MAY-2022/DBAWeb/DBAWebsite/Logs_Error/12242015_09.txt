@@ -1,0 +1,68 @@
+<Exception>
+<DateTime>12/24/2015 9:31:34 AM</DateTime>
+<SessionID>bdgt4ege4ryzxq0crz5i4jt4</SessionID>
+<Summary>An unhandled exception occured on Thursday, December 24, 2015 9:31:34 AM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/DBAWeb/UpgradeServerForm.aspx</URL>
+<HostIP>10.172.202.28</HostIP>
+<ReffererURL>ustxri00dbamgt/DBAWeb/UpgradeServerForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>47.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Data.SqlClient.SqlException (0x80131904): Violation of PRIMARY KEY constraint 'PK_InventoryTracking'. Cannot insert duplicate key in object 'dbo.InventoryTracking'. The duplicate key value is (USOKTE01DBS11I).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DBAWebsite.UpgradeServerForm.myBtn_Click(Object sender, EventArgs e) in h:\DBAWebsite\UpgradeServerForm.aspx.cs:line 299
+ClientConnectionId:417ad77d-69fc-42dd-94b4-28c3673b7c55
+Error Number:2627,State:1,Class:14</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>12/24/2015 9:32:56 AM</DateTime>
+<SessionID>bdgt4ege4ryzxq0crz5i4jt4</SessionID>
+<Summary>An unhandled exception occured on Thursday, December 24, 2015 9:32:56 AM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/DBAWeb/UpgradeServerForm.aspx</URL>
+<HostIP>10.172.202.28</HostIP>
+<ReffererURL>ustxri00dbamgt/DBAWeb/UpgradeServerForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>47.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Data.SqlClient.SqlException (0x80131904): Violation of PRIMARY KEY constraint 'PK_InventoryTracking'. Cannot insert duplicate key in object 'dbo.InventoryTracking'. The duplicate key value is (USOKTE01DBS11I).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DBAWebsite.UpgradeServerForm.myBtn_Click(Object sender, EventArgs e) in h:\DBAWebsite\UpgradeServerForm.aspx.cs:line 299
+ClientConnectionId:417ad77d-69fc-42dd-94b4-28c3673b7c55
+Error Number:2627,State:1,Class:14</ErrorMessage>
+
+</Exception>
+

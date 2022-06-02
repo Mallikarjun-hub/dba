@@ -1,0 +1,29 @@
+<Activity>
+<DateTime>3/27/2019 11:21:27 AM</DateTime>
+<SessionID>a45scv5pu1dy4y3uo41q0h0z</SessionID>
+<Summary>Some info was loged on Wednesday, March 27, 2019 11:21:27 AM</Summary>
+<Page>ustxri00dbamgt/dbaweb/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateBuildForm.aspx</URL>
+<HostIP>10.161.186.249</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateBuildFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>60.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+

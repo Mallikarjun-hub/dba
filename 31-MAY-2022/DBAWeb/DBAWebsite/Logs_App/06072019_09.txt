@@ -1,0 +1,232 @@
+<Activity>
+<DateTime>6/7/2019 9:02:19 AM</DateTime>
+<SessionID>f3eylehf01zvnmdqoabhgsv4</SessionID>
+<Summary>Some info was loged on Friday, June 7, 2019 9:02:19 AM</Summary>
+<Page>localhost/LicenseFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: QA home screen Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/LicenseFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/UpgradeServerFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/7/2019 9:02:26 AM</DateTime>
+<SessionID>f3eylehf01zvnmdqoabhgsv4</SessionID>
+<Summary>Some info was loged on Friday, June 7, 2019 9:02:26 AM</Summary>
+<Page>localhost/LicenseFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: QA home screen Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/LicenseFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/LicenseFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/7/2019 9:02:26 AM</DateTime>
+<SessionID>f3eylehf01zvnmdqoabhgsv4</SessionID>
+<Summary>Some info was loged on Friday, June 7, 2019 9:02:26 AM</Summary>
+<Page>localhost/LicenseForm.aspx</Page>
+
+<Message>Successful binding on: License_Category Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/LicenseForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/LicenseFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/7/2019 9:02:26 AM</DateTime>
+<SessionID>f3eylehf01zvnmdqoabhgsv4</SessionID>
+<Summary>Some info was loged on Friday, June 7, 2019 9:02:26 AM</Summary>
+<Page>localhost/LicenseForm.aspx</Page>
+
+<Message>Successful binding on: contactPerson Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/LicenseForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/LicenseFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/7/2019 9:04:17 AM</DateTime>
+<SessionID>f3eylehf01zvnmdqoabhgsv4</SessionID>
+<Summary>Some info was loged on Friday, June 7, 2019 9:04:17 AM</Summary>
+<Page>localhost/LicenseForm.aspx</Page>
+
+<Message>Successful binding on: License_Category Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/LicenseForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/LicenseFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/7/2019 9:04:17 AM</DateTime>
+<SessionID>f3eylehf01zvnmdqoabhgsv4</SessionID>
+<Summary>Some info was loged on Friday, June 7, 2019 9:04:17 AM</Summary>
+<Page>localhost/LicenseForm.aspx</Page>
+
+<Message>Successful binding on: contactPerson Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/LicenseForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/LicenseFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/7/2019 9:10:51 AM</DateTime>
+<SessionID>f3eylehf01zvnmdqoabhgsv4</SessionID>
+<Summary>Some info was loged on Friday, June 7, 2019 9:10:51 AM</Summary>
+<Page>localhost/LicenseFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: QA home screen Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/LicenseFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/LicenseForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/7/2019 9:29:22 AM</DateTime>
+<SessionID>f3eylehf01zvnmdqoabhgsv4</SessionID>
+<Summary>Some info was loged on Friday, June 7, 2019 9:29:22 AM</Summary>
+<Page>localhost/CreateBuildFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: QA home screen Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+

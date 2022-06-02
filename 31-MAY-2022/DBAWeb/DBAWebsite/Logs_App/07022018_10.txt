@@ -1,0 +1,116 @@
+<Activity>
+<DateTime>7/2/2018 10:17:40 AM</DateTime>
+<SessionID>htjbdzkgd3vwwbnf0oyot4d0</SessionID>
+<Summary>Some info was loged on Monday, July 2, 2018 10:17:40 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Old Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/Default.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>7/2/2018 10:17:40 AM</DateTime>
+<SessionID>htjbdzkgd3vwwbnf0oyot4d0</SessionID>
+<Summary>Some info was loged on Monday, July 2, 2018 10:17:40 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: New Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/Default.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>7/2/2018 10:22:47 AM</DateTime>
+<SessionID>htjbdzkgd3vwwbnf0oyot4d0</SessionID>
+<Summary>Some info was loged on Monday, July 2, 2018 10:22:47 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Old Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/Default.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>7/2/2018 10:22:47 AM</DateTime>
+<SessionID>htjbdzkgd3vwwbnf0oyot4d0</SessionID>
+<Summary>Some info was loged on Monday, July 2, 2018 10:22:47 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: New Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/Default.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+

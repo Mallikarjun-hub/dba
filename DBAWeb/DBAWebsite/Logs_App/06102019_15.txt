@@ -1,0 +1,1039 @@
+<Activity>
+<DateTime>6/10/2019 3:06:12 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:06:12 PM</Summary>
+<Page>localhost/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:06:25 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:06:25 PM</Summary>
+<Page>localhost/EditBuildFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: QA home screen Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/EditBuildFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:06:27 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:06:27 PM</Summary>
+<Page>localhost/EditBuildFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: QA home screen Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/EditBuildFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/EditBuildFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:06:28 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:06:28 PM</Summary>
+<Page>localhost/EditBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/EditBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/EditBuildFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:13:56 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:13:56 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:13:56 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:13:56 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:13:56 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:13:56 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:13:56 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:13:56 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:13:56 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:13:56 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:13:56 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:13:56 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: Memory Capped Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:13:56 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:13:56 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:13:56 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:13:56 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:13:56 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:13:56 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:13:56 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:13:56 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:13:56 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:13:56 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:15:34 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:15:34 PM</Summary>
+<Page>localhost/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/EditQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:15:34 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:15:34 PM</Summary>
+<Page>localhost/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/EditQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:15:34 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:15:34 PM</Summary>
+<Page>localhost/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/EditQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:15:34 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:15:34 PM</Summary>
+<Page>localhost/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/EditQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:15:34 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:15:34 PM</Summary>
+<Page>localhost/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/EditQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:15:34 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:15:34 PM</Summary>
+<Page>localhost/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: Memory Capped Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/EditQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:15:34 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:15:34 PM</Summary>
+<Page>localhost/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/EditQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:15:35 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:15:35 PM</Summary>
+<Page>localhost/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/EditQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:15:35 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:15:35 PM</Summary>
+<Page>localhost/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/EditQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:15:35 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:15:35 PM</Summary>
+<Page>localhost/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/EditQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:15:35 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:15:35 PM</Summary>
+<Page>localhost/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/EditQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:57:38 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:57:38 PM</Summary>
+<Page>localhost/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/EditQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:57:38 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:57:38 PM</Summary>
+<Page>localhost/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/EditQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:57:38 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:57:38 PM</Summary>
+<Page>localhost/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/EditQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:57:38 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:57:38 PM</Summary>
+<Page>localhost/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/EditQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:57:38 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:57:38 PM</Summary>
+<Page>localhost/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/EditQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:57:38 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:57:38 PM</Summary>
+<Page>localhost/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: Memory Capped Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/EditQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:57:38 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:57:38 PM</Summary>
+<Page>localhost/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/EditQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:57:39 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:57:39 PM</Summary>
+<Page>localhost/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/EditQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:57:39 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:57:39 PM</Summary>
+<Page>localhost/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/EditQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:57:39 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:57:39 PM</Summary>
+<Page>localhost/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/EditQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/10/2019 3:57:39 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>Some info was loged on Monday, June 10, 2019 3:57:39 PM</Summary>
+<Page>localhost/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/EditQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+

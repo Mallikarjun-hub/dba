@@ -1,0 +1,29 @@
+<Activity>
+<DateTime>10/1/2019 5:49:32 PM</DateTime>
+<SessionID>fnb31wzfqyhbrei4jr0swuud</SessionID>
+<Summary>Some info was loged on Tuesday, October 1, 2019 5:49:32 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: QA home screen Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditInventoryFormHomeScreen.aspx</URL>
+<HostIP>10.161.186.189</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/Default.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>73.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+

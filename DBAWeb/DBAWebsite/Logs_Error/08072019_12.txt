@@ -1,0 +1,136 @@
+<Exception>
+<DateTime>8/7/2019 12:25:37 PM</DateTime>
+<SessionID>o3bra2wmgkzgs2qhj1uqtwuz</SessionID>
+<Summary>An unhandled exception occured on Wednesday, August 7, 2019 12:25:37 PM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.161.174.172</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>56.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Data.SqlClient.SqlException (0x80131904): Violation of PRIMARY KEY constraint 'PK_Inventory_ServerName'. Cannot insert duplicate key in object 'dbo.InventoryForm'. The duplicate key value is (USILBT01DBS11I).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DBAWebsite.CreateInventory.submit_Click(Object sender, EventArgs e) in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateInventoryForm.aspx.cs:line 444
+ClientConnectionId:1fbfb12d-060e-4f07-8846-a784c9c87af8
+Error Number:2627,State:1,Class:14</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>8/7/2019 12:38:15 PM</DateTime>
+<SessionID>o3bra2wmgkzgs2qhj1uqtwuz</SessionID>
+<Summary>An unhandled exception occured on Wednesday, August 7, 2019 12:38:15 PM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/DBAWeb/CreateInventoryForm.aspx</URL>
+<HostIP>10.161.174.172</HostIP>
+<ReffererURL>ustxri00dbamgt/DBAWeb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>56.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Data.SqlClient.SqlException (0x80131904): Violation of PRIMARY KEY constraint 'PK_Inventory_ServerName'. Cannot insert duplicate key in object 'dbo.InventoryForm'. The duplicate key value is (USILBT01DBS11I).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DBAWebsite.CreateInventory.submit_Click(Object sender, EventArgs e) in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateInventoryForm.aspx.cs:line 444
+ClientConnectionId:1e30591f-ec9f-41c5-ac76-1c8d96f662c9
+Error Number:2627,State:1,Class:14</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>8/7/2019 12:43:01 PM</DateTime>
+<SessionID>o3bra2wmgkzgs2qhj1uqtwuz</SessionID>
+<Summary>An unhandled exception occured on Wednesday, August 7, 2019 12:43:01 PM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/DBAWeb/CreateInventoryForm.aspx</URL>
+<HostIP>10.161.174.172</HostIP>
+<ReffererURL>ustxri00dbamgt/DBAWeb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>56.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Data.SqlClient.SqlException (0x80131904): Violation of PRIMARY KEY constraint 'PK_Inventory_ServerName'. Cannot insert duplicate key in object 'dbo.InventoryForm'. The duplicate key value is (USILBT01DBS11I).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DBAWebsite.CreateInventory.submit_Click(Object sender, EventArgs e) in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateInventoryForm.aspx.cs:line 444
+ClientConnectionId:1e30591f-ec9f-41c5-ac76-1c8d96f662c9
+Error Number:2627,State:1,Class:14</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>8/7/2019 12:46:26 PM</DateTime>
+<SessionID>hzitoesmghdkmfnqcgihtsgj</SessionID>
+<Summary>An unhandled exception occured on Wednesday, August 7, 2019 12:46:26 PM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.161.174.100</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Data.SqlClient.SqlException (0x80131904): Violation of PRIMARY KEY constraint 'PK_Inventory_ServerName'. Cannot insert duplicate key in object 'dbo.InventoryForm'. The duplicate key value is (USILBT01DBS11I).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DBAWebsite.CreateInventory.submit_Click(Object sender, EventArgs e) in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateInventoryForm.aspx.cs:line 444
+ClientConnectionId:1e30591f-ec9f-41c5-ac76-1c8d96f662c9
+Error Number:2627,State:1,Class:14</ErrorMessage>
+
+</Exception>
+

@@ -1,0 +1,232 @@
+<Activity>
+<DateTime>4/24/2020 3:46:52 PM</DateTime>
+<SessionID>fvho3vhynt5gnrm1cm5mniww</SessionID>
+<Summary>Some info was loged on Friday, April 24, 2020 3:46:52 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Old Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>10.172.3.59</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/Default.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>73.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>4/24/2020 3:46:52 PM</DateTime>
+<SessionID>fvho3vhynt5gnrm1cm5mniww</SessionID>
+<Summary>Some info was loged on Friday, April 24, 2020 3:46:52 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: New Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>10.172.3.59</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/Default.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>73.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>4/24/2020 3:56:20 PM</DateTime>
+<SessionID>fvho3vhynt5gnrm1cm5mniww</SessionID>
+<Summary>Some info was loged on Friday, April 24, 2020 3:56:20 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: QA home screen Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildFormHomeScreen.aspx</URL>
+<HostIP>10.172.3.59</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/OSInfoReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>73.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>4/24/2020 3:56:20 PM</DateTime>
+<SessionID>fvho3vhynt5gnrm1cm5mniww</SessionID>
+<Summary>Some info was loged on Friday, April 24, 2020 3:56:20 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildFormHomeScreen.aspx</URL>
+<HostIP>10.172.3.59</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/OSInfoReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>73.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>4/24/2020 3:56:24 PM</DateTime>
+<SessionID>fvho3vhynt5gnrm1cm5mniww</SessionID>
+<Summary>Some info was loged on Friday, April 24, 2020 3:56:24 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: QA home screen Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildFormHomeScreen.aspx</URL>
+<HostIP>10.172.3.59</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>73.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>4/24/2020 3:56:24 PM</DateTime>
+<SessionID>fvho3vhynt5gnrm1cm5mniww</SessionID>
+<Summary>Some info was loged on Friday, April 24, 2020 3:56:24 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildFormHomeScreen.aspx</URL>
+<HostIP>10.172.3.59</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>73.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>4/24/2020 3:56:24 PM</DateTime>
+<SessionID>fvho3vhynt5gnrm1cm5mniww</SessionID>
+<Summary>Some info was loged on Friday, April 24, 2020 3:56:24 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildForm.aspx</URL>
+<HostIP>10.172.3.59</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>73.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>4/24/2020 3:57:48 PM</DateTime>
+<SessionID>fvho3vhynt5gnrm1cm5mniww</SessionID>
+<Summary>Some info was loged on Friday, April 24, 2020 3:57:48 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildForm.aspx</URL>
+<HostIP>10.172.3.59</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>73.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+

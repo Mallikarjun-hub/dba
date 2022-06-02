@@ -1,0 +1,29 @@
+<Activity>
+<DateTime>1/30/2020 6:01:01 PM</DateTime>
+<SessionID>d51lveadrlws0u4srgkzuaax</SessionID>
+<Summary>Some info was loged on Thursday, January 30, 2020 6:01:01 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildForm.aspx</URL>
+<HostIP>10.177.58.141</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+

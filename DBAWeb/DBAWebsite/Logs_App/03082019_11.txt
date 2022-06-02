@@ -1,0 +1,70 @@
+<Activity>
+<DateTime>3/8/2019 11:19:15 AM</DateTime>
+<SessionID>jty2c01zfoyfknzzmhjg05xs</SessionID>
+<Summary>Some info was loged on Friday, March 8, 2019 11:19:15 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/DecommissionServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: decommission home screen Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/DecommissionServerFormHomeScreen.aspx</URL>
+<HostIP>10.177.58.141</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/Default.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/8/2019 11:19:50 AM</DateTime>
+<SessionID>jty2c01zfoyfknzzmhjg05xs</SessionID>
+<Summary>Some info was loged on Friday, March 8, 2019 11:19:50 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/DecommissionServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: decommission home screen Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/DecommissionServerFormHomeScreen.aspx</URL>
+<HostIP>10.177.58.141</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/DecommissionServerFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/8/2019 11:20:18 AM</DateTime>
+<SessionID>jty2c01zfoyfknzzmhjg05xs</SessionID>
+<Summary>Some info was loged on Friday, March 8, 2019 11:20:18 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/DecommissionServerForm.aspx</Page>
+
+<Message>Successfully sent mail</Message>
+
+
+
+</Activity>
+

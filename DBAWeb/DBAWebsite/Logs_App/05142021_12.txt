@@ -1,0 +1,440 @@
+<Activity>
+<DateTime>5/14/2021 12:27:15 PM</DateTime>
+<SessionID>yn41lodz0rs2h01qsgdpxhrd</SessionID>
+<Summary>Some info was loged on Friday, May 14, 2021 12:27:15 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Old Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>10.172.4.86</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/Default.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/14/2021 12:27:16 PM</DateTime>
+<SessionID>yn41lodz0rs2h01qsgdpxhrd</SessionID>
+<Summary>Some info was loged on Friday, May 14, 2021 12:27:16 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: New Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>10.172.4.86</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/Default.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/14/2021 12:28:14 PM</DateTime>
+<SessionID>yn41lodz0rs2h01qsgdpxhrd</SessionID>
+<Summary>Some info was loged on Friday, May 14, 2021 12:28:14 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Old Server Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>10.172.4.86</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/14/2021 12:28:14 PM</DateTime>
+<SessionID>yn41lodz0rs2h01qsgdpxhrd</SessionID>
+<Summary>Some info was loged on Friday, May 14, 2021 12:28:14 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: New Server Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>10.172.4.86</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/14/2021 12:29:48 PM</DateTime>
+<SessionID>yn41lodz0rs2h01qsgdpxhrd</SessionID>
+<Summary>Some info was loged on Friday, May 14, 2021 12:29:48 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerForm.aspx</Page>
+
+<Message>Successfully sent mail</Message>
+
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/14/2021 12:37:35 PM</DateTime>
+<SessionID>yn41lodz0rs2h01qsgdpxhrd</SessionID>
+<Summary>Some info was loged on Friday, May 14, 2021 12:37:35 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Old Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>10.172.4.86</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/Default.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/14/2021 12:37:35 PM</DateTime>
+<SessionID>yn41lodz0rs2h01qsgdpxhrd</SessionID>
+<Summary>Some info was loged on Friday, May 14, 2021 12:37:35 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: New Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>10.172.4.86</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/Default.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/14/2021 12:38:23 PM</DateTime>
+<SessionID>yn41lodz0rs2h01qsgdpxhrd</SessionID>
+<Summary>Some info was loged on Friday, May 14, 2021 12:38:23 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Old Server Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>10.172.4.86</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/14/2021 12:38:23 PM</DateTime>
+<SessionID>yn41lodz0rs2h01qsgdpxhrd</SessionID>
+<Summary>Some info was loged on Friday, May 14, 2021 12:38:23 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: New Server Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>10.172.4.86</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/14/2021 12:38:54 PM</DateTime>
+<SessionID>yn41lodz0rs2h01qsgdpxhrd</SessionID>
+<Summary>Some info was loged on Friday, May 14, 2021 12:38:54 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerForm.aspx</Page>
+
+<Message>Successfully sent mail</Message>
+
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/14/2021 12:41:59 PM</DateTime>
+<SessionID>yn41lodz0rs2h01qsgdpxhrd</SessionID>
+<Summary>Some info was loged on Friday, May 14, 2021 12:41:59 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Old Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>10.172.4.86</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/14/2021 12:41:59 PM</DateTime>
+<SessionID>yn41lodz0rs2h01qsgdpxhrd</SessionID>
+<Summary>Some info was loged on Friday, May 14, 2021 12:41:59 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: New Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>10.172.4.86</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/14/2021 12:42:34 PM</DateTime>
+<SessionID>yn41lodz0rs2h01qsgdpxhrd</SessionID>
+<Summary>Some info was loged on Friday, May 14, 2021 12:42:34 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Old Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>10.172.4.86</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/14/2021 12:42:34 PM</DateTime>
+<SessionID>yn41lodz0rs2h01qsgdpxhrd</SessionID>
+<Summary>Some info was loged on Friday, May 14, 2021 12:42:34 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: New Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>10.172.4.86</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/14/2021 12:43:05 PM</DateTime>
+<SessionID>yn41lodz0rs2h01qsgdpxhrd</SessionID>
+<Summary>Some info was loged on Friday, May 14, 2021 12:43:05 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Old Server Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>10.172.4.86</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/14/2021 12:43:05 PM</DateTime>
+<SessionID>yn41lodz0rs2h01qsgdpxhrd</SessionID>
+<Summary>Some info was loged on Friday, May 14, 2021 12:43:05 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: New Server Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>10.172.4.86</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/14/2021 12:44:15 PM</DateTime>
+<SessionID>yn41lodz0rs2h01qsgdpxhrd</SessionID>
+<Summary>Some info was loged on Friday, May 14, 2021 12:44:15 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/UpgradeServerForm.aspx</Page>
+
+<Message>Successfully sent mail</Message>
+
+
+
+</Activity>
+

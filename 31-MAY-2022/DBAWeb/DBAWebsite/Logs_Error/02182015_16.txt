@@ -1,0 +1,219 @@
+<Exception>
+<DateTime>2/18/2015 4:43:16 PM</DateTime>
+<SessionID>scoyim0ozb2nhxaumniycmjl</SessionID>
+<Summary>An unhandled exception occured on Wednesday, February 18, 2015 4:43:16 PM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/BuildQAComparisonReport.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/BuildQAComparisonReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 64.233.176.109:587
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at DBAWebsite.BuildQAComparisonReport.btn_send_Click(Object sender, EventArgs e) in c:\Users\mpangulu\Downloads\ASP.NET Web Forms\C#\DBAWebsite\BuildQAComparisonReport.aspx.cs:line 39</ErrorMessage>
+<InnerException>System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 64.233.176.109:587
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)</InnerException>
+
+</Exception>
+
+<Exception>
+<DateTime>2/18/2015 4:48:36 PM</DateTime>
+<SessionID>ofa1kqgbyjl01jt1lbhcaiyy</SessionID>
+<Summary>An unhandled exception occured on Wednesday, February 18, 2015 4:48:36 PM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/BuildQAComparisonReport.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/BuildQAComparisonReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:587
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at DBAWebsite.BuildQAComparisonReport.btn_send_Click(Object sender, EventArgs e) in c:\Users\mpangulu\Downloads\ASP.NET Web Forms\C#\DBAWebsite\BuildQAComparisonReport.aspx.cs:line 40</ErrorMessage>
+<InnerException>System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:587
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)</InnerException>
+
+</Exception>
+
+<Exception>
+<DateTime>2/18/2015 4:49:52 PM</DateTime>
+<SessionID>0qcnsearqgudxajtkwzjnci2</SessionID>
+<Summary>An unhandled exception occured on Wednesday, February 18, 2015 4:49:52 PM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/BuildQAComparisonReport.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/BuildQAComparisonReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: The remote name could not be resolved: 'mail.JBSUSCAS02.com'
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at DBAWebsite.BuildQAComparisonReport.btn_send_Click(Object sender, EventArgs e) in c:\Users\mpangulu\Downloads\ASP.NET Web Forms\C#\DBAWebsite\BuildQAComparisonReport.aspx.cs:line 40</ErrorMessage>
+<InnerException>System.Net.WebException: The remote name could not be resolved: 'mail.JBSUSCAS02.com'
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)</InnerException>
+
+</Exception>
+
+<Exception>
+<DateTime>2/18/2015 4:51:49 PM</DateTime>
+<SessionID>ckzkqlxuccu0p3uuw4lyqphj</SessionID>
+<Summary>An unhandled exception occured on Wednesday, February 18, 2015 4:51:49 PM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/BuildQAComparisonReport.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/BuildQAComparisonReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Net.Mail.SmtpException: Server does not support secure connections.
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at DBAWebsite.BuildQAComparisonReport.btn_send_Click(Object sender, EventArgs e) in c:\Users\mpangulu\Downloads\ASP.NET Web Forms\C#\DBAWebsite\BuildQAComparisonReport.aspx.cs:line 39</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>2/18/2015 4:53:42 PM</DateTime>
+<SessionID>wph1zk50bcvphna1djvwttfi</SessionID>
+<Summary>An unhandled exception occured on Wednesday, February 18, 2015 4:53:42 PM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/BuildQAComparisonReport.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/BuildQAComparisonReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Net.Mail.SmtpException: Server does not support secure connections.
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at DBAWebsite.BuildQAComparisonReport.btn_send_Click(Object sender, EventArgs e) in c:\Users\mpangulu\Downloads\ASP.NET Web Forms\C#\DBAWebsite\BuildQAComparisonReport.aspx.cs:line 39</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>2/18/2015 4:56:34 PM</DateTime>
+<SessionID>yv4lk5ogrn0xcdozunvqqbki</SessionID>
+<Summary>An unhandled exception occured on Wednesday, February 18, 2015 4:56:34 PM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/BuildQAComparisonReport.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/BuildQAComparisonReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Net.Mail.SmtpException: Server does not support secure connections.
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at DBAWebsite.BuildQAComparisonReport.btn_send_Click(Object sender, EventArgs e) in c:\Users\mpangulu\Downloads\ASP.NET Web Forms\C#\DBAWebsite\BuildQAComparisonReport.aspx.cs:line 40</ErrorMessage>
+
+</Exception>
+

@@ -1,0 +1,82 @@
+<Activity>
+<DateTime>4/2/2018 2:05:58 PM</DateTime>
+<SessionID>14zs3qnuzhf4zkljyf3hwckb</SessionID>
+<Summary>Some info was loged on Monday, April 2, 2018 2:05:58 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>4/2/2018 2:07:23 PM</DateTime>
+<SessionID>14zs3qnuzhf4zkljyf3hwckb</SessionID>
+<Summary>Some info was loged on Monday, April 2, 2018 2:07:23 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>4/2/2018 2:11:37 PM</DateTime>
+<SessionID>14zs3qnuzhf4zkljyf3hwckb</SessionID>
+<Summary>Some info was loged on Monday, April 2, 2018 2:11:37 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/BuildQAComparisonReport.aspx</Page>
+
+<Message>Successfully sent mail</Message>
+
+
+
+</Activity>
+
+<Activity>
+<DateTime>4/2/2018 2:11:52 PM</DateTime>
+<SessionID>14zs3qnuzhf4zkljyf3hwckb</SessionID>
+<Summary>Some info was loged on Monday, April 2, 2018 2:11:52 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/BuildQAComparisonReport.aspx</Page>
+
+<Message>Successfully sent mail</Message>
+
+
+
+</Activity>
+

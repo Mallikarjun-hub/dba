@@ -1,0 +1,87 @@
+<Activity>
+<DateTime>5/31/2022 3:20:56 PM</DateTime>
+<SessionID>pvabnaj1djctqweq3ulyn0tq</SessionID>
+<Summary>Some info was loged on Tuesday, May 31, 2022 3:20:56 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateQAFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: QA home screen Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateQAFormHomeScreen.aspx</URL>
+<HostIP>10.162.22.21</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/Default.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>101.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/31/2022 3:20:56 PM</DateTime>
+<SessionID>pvabnaj1djctqweq3ulyn0tq</SessionID>
+<Summary>Some info was loged on Tuesday, May 31, 2022 3:20:56 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateQAFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateQAFormHomeScreen.aspx</URL>
+<HostIP>10.162.22.21</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/Default.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>101.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/31/2022 3:21:03 PM</DateTime>
+<SessionID>pvabnaj1djctqweq3ulyn0tq</SessionID>
+<Summary>Some info was loged on Tuesday, May 31, 2022 3:21:03 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/DecommissionServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: decommission home screen Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/DecommissionServerFormHomeScreen.aspx</URL>
+<HostIP>10.162.22.21</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>101.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+

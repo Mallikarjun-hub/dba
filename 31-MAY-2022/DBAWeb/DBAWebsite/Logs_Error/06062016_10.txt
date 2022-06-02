@@ -1,0 +1,100 @@
+<Exception>
+<DateTime>6/6/2016 10:10:57 AM</DateTime>
+<SessionID>vyo2rr3dwv0tvxqx1yp0hilp</SessionID>
+<Summary>An unhandled exception occured on Monday, June 6, 2016 10:10:57 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/ApplicationsReport.aspx</URL>
+<HostIP>172.27.190.49</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>50.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'Server Name'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at DBAWebsite.ApplicationsReport.bind() in h:\DBAWebsite\ApplicationsReport.aspx.cs:line 33
+ClientConnectionId:7db2e285-aa0a-40c4-9401-e84914d2b3fe
+Error Number:207,State:1,Class:16</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>6/6/2016 10:11:27 AM</DateTime>
+<SessionID>vyo2rr3dwv0tvxqx1yp0hilp</SessionID>
+<Summary>An unhandled exception occured on Monday, June 6, 2016 10:11:27 AM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/dbaweb/OSInfoReport.aspx</URL>
+<HostIP>172.27.190.49</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/OSInfoReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>50.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Web.HttpException (0x80004005): The client disconnected. ---> System.Web.UI.ViewStateException: Invalid viewstate. 
+	Client IP: 172.27.190.49
+	Port: 62109
+	Referer: http://ustxri00dbamgt/dbaweb/OSInfoReport.aspx
+	Path: /dbaweb/OSInfoReport.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+	ViewState: /wEPDwUKMjE0NTI0NDQ4Nw9kFgJmD2QWAgIDD2QWAgICD2QWAgIHDzwrABEDAA8WBB4LXyFEYXRhQm91bmRnHgtfIUl0ZW1Db3VudAKPA2QBEBYAFgAWAAwUKwAAFgJmD2QWoAYCAQ9kFhhmD2QWAmYPFQEIQUlCU0ZBUFBkAgEPZBYCZg8VARJTUUwgU2VydmVyIDIwMDggUjJkAgIPZBYCZg8VAQExZAIDD2QWAmYPFQEBNmQCBA9kFgJmDxUBAjEyZAIFD2QWAmYPFQEAZAIGD2QWAmYPFQEAZAIHD2QWAmYPFQEGQWN0aXZlZAIID2QWAmYPFQEYYWlic2ZhcHAucGlsZ3JpbXMtdXMubmV0ZAIJD2QWAmYPFQEAZAIKD2QWAmYPFQEAZAILD2QWAmYPFQEAZAICD2QWGGYPZBYCZg8VAQdBSUJTRkRCZAIBD2QWAmYPFQESU1FMIFNlcnZlciAyMDA4IFIyZAICD2QWAmYPFQEBMWQCAw9kFgJmDxUBATZkAgQPZBYCZg8VAQIxMmQCBQ9kFgJmDxUBAGQCBg9kFgJmDxUBAGQCBw9kFgJmDxUBBkFjdGl2ZWQCCA9kFgJmDxUBF2FpYnNmZGIucGlsZ3JpbXMtdXMubmV0ZAIJD2QWAmYPFQEAZAIKD2QWAmYPFQEAZAILD2QWAmYPFQEAZAIDD2QWGGYPZBYCZg8VAQdBSUJTUUwwZAIBD2QWAmYPFQESU1FMIFNlcnZlci... ---> System.FormatException: Invalid length for a Base-64 char array or string.
+   at System.Convert.FromBase64_Decode(Char* startInputPtr, Int32 inputLength, Byte* startDestPtr, Int32 destLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at System.Web.UI.ObjectStateFormatter.Deserialize(String inputString, Purpose purpose)
+   at System.Web.UI.Util.DeserializeWithAssert(IStateFormatter2 formatter, String serializedState, Purpose purpose)
+   at System.Web.UI.HiddenFieldPageStatePersister.Load()
+   --- End of inner exception stack trace ---
+   at System.Web.UI.ViewStateException.ThrowError(Exception inner, String persistedState, String errorPageMessage, Boolean macValidationError)
+   at System.Web.UI.HiddenFieldPageStatePersister.Load()
+   at System.Web.UI.Page.LoadPageStateFromPersistenceMedium()
+   at System.Web.UI.Page.LoadAllState()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.osinforeport_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\dbaweb\09191ab6\ff7e0453\App_Web_4wfwk0sv.11.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)</ErrorMessage>
+<InnerException>System.Web.UI.ViewStateException: Invalid viewstate. 
+	Client IP: 172.27.190.49
+	Port: 62109
+	Referer: http://ustxri00dbamgt/dbaweb/OSInfoReport.aspx
+	Path: /dbaweb/OSInfoReport.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+	ViewState: /wEPDwUKMjE0NTI0NDQ4Nw9kFgJmD2QWAgIDD2QWAgICD2QWAgIHDzwrABEDAA8WBB4LXyFEYXRhQm91bmRnHgtfIUl0ZW1Db3VudAKPA2QBEBYAFgAWAAwUKwAAFgJmD2QWoAYCAQ9kFhhmD2QWAmYPFQEIQUlCU0ZBUFBkAgEPZBYCZg8VARJTUUwgU2VydmVyIDIwMDggUjJkAgIPZBYCZg8VAQExZAIDD2QWAmYPFQEBNmQCBA9kFgJmDxUBAjEyZAIFD2QWAmYPFQEAZAIGD2QWAmYPFQEAZAIHD2QWAmYPFQEGQWN0aXZlZAIID2QWAmYPFQEYYWlic2ZhcHAucGlsZ3JpbXMtdXMubmV0ZAIJD2QWAmYPFQEAZAIKD2QWAmYPFQEAZAILD2QWAmYPFQEAZAICD2QWGGYPZBYCZg8VAQdBSUJTRkRCZAIBD2QWAmYPFQESU1FMIFNlcnZlciAyMDA4IFIyZAICD2QWAmYPFQEBMWQCAw9kFgJmDxUBATZkAgQPZBYCZg8VAQIxMmQCBQ9kFgJmDxUBAGQCBg9kFgJmDxUBAGQCBw9kFgJmDxUBBkFjdGl2ZWQCCA9kFgJmDxUBF2FpYnNmZGIucGlsZ3JpbXMtdXMubmV0ZAIJD2QWAmYPFQEAZAIKD2QWAmYPFQEAZAILD2QWAmYPFQEAZAIDD2QWGGYPZBYCZg8VAQdBSUJTUUwwZAIBD2QWAmYPFQESU1FMIFNlcnZlci... ---> System.FormatException: Invalid length for a Base-64 char array or string.
+   at System.Convert.FromBase64_Decode(Char* startInputPtr, Int32 inputLength, Byte* startDestPtr, Int32 destLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at System.Web.UI.ObjectStateFormatter.Deserialize(String inputString, Purpose purpose)
+   at System.Web.UI.Util.DeserializeWithAssert(IStateFormatter2 formatter, String serializedState, Purpose purpose)
+   at System.Web.UI.HiddenFieldPageStatePersister.Load()
+   --- End of inner exception stack trace ---</InnerException>
+
+</Exception>
+

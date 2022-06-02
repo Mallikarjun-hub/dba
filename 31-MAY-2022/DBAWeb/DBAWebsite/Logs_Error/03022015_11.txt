@@ -1,0 +1,161 @@
+<Exception>
+<DateTime>3/2/2015 11:04:20 AM</DateTime>
+<SessionID>wknlcd1owjmw3fs3fwiubyzk</SessionID>
+<Summary>An unhandled exception occured on Monday, March 02, 2015 11:04:20 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/UpgradeServerForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/UpgradeServerFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.NullReferenceException: Object reference not set to an instance of an object.
+   at DBAWebsite.UpgradeServerForm.Server_dropdownlist_DataBinding() in c:\Users\mpangulu\Downloads\ASP.NET Web Forms\C#\DBAWebsite\UpgradeServerFormHomeScreen.aspx.cs:line 37</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>3/2/2015 11:04:42 AM</DateTime>
+<SessionID>wknlcd1owjmw3fs3fwiubyzk</SessionID>
+<Summary>An unhandled exception occured on Monday, March 02, 2015 11:04:42 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/UpgradeServerForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/UpgradeServerFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.NullReferenceException: Object reference not set to an instance of an object.
+   at DBAWebsite.UpgradeServerForm.Server_dropdownlist_DataBinding() in c:\Users\mpangulu\Downloads\ASP.NET Web Forms\C#\DBAWebsite\UpgradeServerFormHomeScreen.aspx.cs:line 37</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>3/2/2015 11:05:51 AM</DateTime>
+<SessionID>wknlcd1owjmw3fs3fwiubyzk</SessionID>
+<Summary>An unhandled exception occured on Monday, March 02, 2015 11:05:51 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/UpgradeServerForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/UpgradeServerFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.NullReferenceException: Object reference not set to an instance of an object.
+   at DBAWebsite.UpgradeServerForm.Server_dropdownlist_DataBinding() in c:\Users\mpangulu\Downloads\ASP.NET Web Forms\C#\DBAWebsite\UpgradeServerFormHomeScreen.aspx.cs:line 37</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>3/2/2015 11:06:23 AM</DateTime>
+<SessionID>wknlcd1owjmw3fs3fwiubyzk</SessionID>
+<Summary>An unhandled exception occured on Monday, March 02, 2015 11:06:23 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/UpgradeServerForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/UpgradeServerFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.NullReferenceException: Object reference not set to an instance of an object.
+   at DBAWebsite.UpgradeServerForm.Server_dropdownlist_DataBinding() in c:\Users\mpangulu\Downloads\ASP.NET Web Forms\C#\DBAWebsite\UpgradeServerFormHomeScreen.aspx.cs:line 37</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>3/2/2015 11:07:02 AM</DateTime>
+<SessionID>wknlcd1owjmw3fs3fwiubyzk</SessionID>
+<Summary>An unhandled exception occured on Monday, March 02, 2015 11:07:02 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/UpgradeServerForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/UpgradeServerFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.NullReferenceException: Object reference not set to an instance of an object.
+   at DBAWebsite.UpgradeServerForm.Server_dropdownlist_DataBinding() in c:\Users\mpangulu\Downloads\ASP.NET Web Forms\C#\DBAWebsite\UpgradeServerFormHomeScreen.aspx.cs:line 37</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>3/2/2015 11:07:22 AM</DateTime>
+<SessionID>wknlcd1owjmw3fs3fwiubyzk</SessionID>
+<Summary>An unhandled exception occured on Monday, March 02, 2015 11:07:22 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/UpgradeServerForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/UpgradeServerFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.NullReferenceException: Object reference not set to an instance of an object.
+   at DBAWebsite.UpgradeServerForm.Server_dropdownlist_DataBinding() in c:\Users\mpangulu\Downloads\ASP.NET Web Forms\C#\DBAWebsite\UpgradeServerFormHomeScreen.aspx.cs:line 37</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>3/2/2015 11:12:40 AM</DateTime>
+<SessionID>wknlcd1owjmw3fs3fwiubyzk</SessionID>
+<Summary>An unhandled exception occured on Monday, March 02, 2015 11:12:40 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/UpgradeServerForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/UpgradeServerFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.NullReferenceException: Object reference not set to an instance of an object.
+   at DBAWebsite.UpgradeServerForm.Server_dropdownlist_DataBinding() in c:\Users\mpangulu\Downloads\ASP.NET Web Forms\C#\DBAWebsite\UpgradeServerFormHomeScreen.aspx.cs:line 37</ErrorMessage>
+
+</Exception>
+

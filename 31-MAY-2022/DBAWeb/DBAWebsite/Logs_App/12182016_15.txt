@@ -1,0 +1,29 @@
+<Activity>
+<DateTime>12/18/2016 3:11:33 PM</DateTime>
+<SessionID>ld0kttyttr4ihn2egf1u1jqg</SessionID>
+<Summary>Some info was loged on Sunday, December 18, 2016 3:11:33 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryFormHomeScreen.aspx</URL>
+<HostIP>10.191.39.119</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/</ReffererURL>
+</Info>
+<Browser>
+<Name>Firefox</Name>
+<Version>50.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+

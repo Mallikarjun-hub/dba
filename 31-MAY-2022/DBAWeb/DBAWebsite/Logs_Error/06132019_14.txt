@@ -1,0 +1,493 @@
+<Exception>
+<DateTime>6/13/2019 2:04:13 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Thursday, June 13, 2019 2:04:13 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Web.HttpException (0x80004005): DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'memoryCorrect'.
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.OnDataBinding(EventArgs e)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at DBAWebsite.CreateBuild.memory_correct_dropdownlist_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 509</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>6/13/2019 2:10:43 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Thursday, June 13, 2019 2:10:43 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Web.HttpException (0x80004005): DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'MailSetup'.
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.OnDataBinding(EventArgs e)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at DBAWebsite.CreateBuild.memory_correct_dropdownlist_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 509</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>6/13/2019 2:12:52 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Thursday, June 13, 2019 2:12:52 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Web.HttpException (0x80004005): DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'MailSetup'.
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.OnDataBinding(EventArgs e)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at DBAWebsite.CreateBuild.memory_correct_dropdownlist_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 509</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>6/13/2019 2:15:54 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Thursday, June 13, 2019 2:15:54 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Web.HttpException (0x80004005): DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'MailSetup'.
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.OnDataBinding(EventArgs e)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at DBAWebsite.CreateBuild.memory_correct_dropdownlist_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 509</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>6/13/2019 2:24:57 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Thursday, June 13, 2019 2:24:57 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Web.HttpException (0x80004005): DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'MailSetup'.
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.OnDataBinding(EventArgs e)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at DBAWebsite.CreateBuild.memory_correct_dropdownlist_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 510</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>6/13/2019 2:26:52 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Thursday, June 13, 2019 2:26:52 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Web.HttpException (0x80004005): DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'MailSetup'.
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.OnDataBinding(EventArgs e)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at DBAWebsite.CreateBuild.memory_correct_dropdownlist_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 510</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>6/13/2019 2:27:52 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Thursday, June 13, 2019 2:27:52 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Web.HttpException (0x80004005): DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'MailSetup'.
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.OnDataBinding(EventArgs e)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at DBAWebsite.CreateBuild.memory_correct_dropdownlist_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 510</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>6/13/2019 2:33:19 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Thursday, June 13, 2019 2:33:19 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Web.HttpException (0x80004005): DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'MailSetup'.
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.OnDataBinding(EventArgs e)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at DBAWebsite.CreateBuild.memory_correct_dropdownlist_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 510</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>6/13/2019 2:47:46 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Thursday, June 13, 2019 2:47:46 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Web.HttpException (0x80004005): DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'MailSetup'.
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.OnDataBinding(EventArgs e)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at DBAWebsite.CreateBuild.memory_correct_dropdownlist_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 510</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>6/13/2019 2:48:16 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Thursday, June 13, 2019 2:48:16 PM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at DBAWebsite.CreateBuild.submit_Click(Object sender, EventArgs e) in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 636</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>6/13/2019 2:48:20 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Thursday, June 13, 2019 2:48:20 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Web.HttpException (0x80004005): DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'MailSetup'.
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.OnDataBinding(EventArgs e)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at DBAWebsite.CreateBuild.memory_correct_dropdownlist_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 510</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>6/13/2019 2:51:42 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Thursday, June 13, 2019 2:51:42 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Web.HttpException (0x80004005): DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'MailSetup'.
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.OnDataBinding(EventArgs e)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at DBAWebsite.CreateBuild.memory_correct_dropdownlist_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 510</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>6/13/2019 2:52:09 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Thursday, June 13, 2019 2:52:09 PM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at DBAWebsite.CreateBuild.submit_Click(Object sender, EventArgs e) in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 636</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>6/13/2019 2:52:12 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Thursday, June 13, 2019 2:52:12 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Web.HttpException (0x80004005): DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'MailSetup'.
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.OnDataBinding(EventArgs e)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at DBAWebsite.CreateBuild.memory_correct_dropdownlist_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 510</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>6/13/2019 2:52:47 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Thursday, June 13, 2019 2:52:47 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Web.HttpException (0x80004005): DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'MailSetup'.
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.OnDataBinding(EventArgs e)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at DBAWebsite.CreateBuild.memory_correct_dropdownlist_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 510</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>6/13/2019 2:52:55 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Thursday, June 13, 2019 2:52:55 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateBuildFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Web.HttpException (0x80004005): DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'MailSetup'.
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.OnDataBinding(EventArgs e)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at DBAWebsite.CreateBuild.memory_correct_dropdownlist_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 510</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>6/13/2019 2:53:18 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Thursday, June 13, 2019 2:53:18 PM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at DBAWebsite.CreateBuild.submit_Click(Object sender, EventArgs e) in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 636</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>6/13/2019 2:53:20 PM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Thursday, June 13, 2019 2:53:20 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Web.HttpException (0x80004005): DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'MailSetup'.
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.OnDataBinding(EventArgs e)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at DBAWebsite.CreateBuild.memory_correct_dropdownlist_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 510</ErrorMessage>
+
+</Exception>
+

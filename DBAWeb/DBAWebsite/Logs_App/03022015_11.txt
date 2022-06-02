@@ -1,0 +1,232 @@
+<Activity>
+<DateTime>3/2/2015 11:04:19 AM</DateTime>
+<SessionID>wknlcd1owjmw3fs3fwiubyzk</SessionID>
+<Summary>Some info was loged on Monday, March 02, 2015 11:04:19 AM</Summary>
+<Page>localhost/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/2/2015 11:04:20 AM</DateTime>
+<SessionID>wknlcd1owjmw3fs3fwiubyzk</SessionID>
+<Summary>Some info was loged on Monday, March 02, 2015 11:04:20 AM</Summary>
+<Page>localhost/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/UpgradeServerFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/2/2015 11:43:14 AM</DateTime>
+<SessionID>mqnhssoxraecnlebzmllwh3d</SessionID>
+<Summary>Some info was loged on Monday, March 02, 2015 11:43:14 AM</Summary>
+<Page>localhost/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/2/2015 11:43:15 AM</DateTime>
+<SessionID>mqnhssoxraecnlebzmllwh3d</SessionID>
+<Summary>Some info was loged on Monday, March 02, 2015 11:43:15 AM</Summary>
+<Page>localhost/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/UpgradeServerFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/2/2015 11:44:47 AM</DateTime>
+<SessionID>mqnhssoxraecnlebzmllwh3d</SessionID>
+<Summary>Some info was loged on Monday, March 02, 2015 11:44:47 AM</Summary>
+<Page>localhost/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/Default.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/2/2015 11:44:49 AM</DateTime>
+<SessionID>mqnhssoxraecnlebzmllwh3d</SessionID>
+<Summary>Some info was loged on Monday, March 02, 2015 11:44:49 AM</Summary>
+<Page>localhost/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/UpgradeServerFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/2/2015 11:46:01 AM</DateTime>
+<SessionID>vdmq0eolwcgo5fqfb1m1bjg0</SessionID>
+<Summary>Some info was loged on Monday, March 02, 2015 11:46:01 AM</Summary>
+<Page>localhost/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/2/2015 11:46:02 AM</DateTime>
+<SessionID>vdmq0eolwcgo5fqfb1m1bjg0</SessionID>
+<Summary>Some info was loged on Monday, March 02, 2015 11:46:02 AM</Summary>
+<Page>localhost/UpgradeServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/UpgradeServerFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/UpgradeServerFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+

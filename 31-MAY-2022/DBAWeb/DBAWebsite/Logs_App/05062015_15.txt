@@ -1,0 +1,116 @@
+<Activity>
+<DateTime>5/6/2015 3:13:59 PM</DateTime>
+<SessionID>5qtcijnvxfn54xckuh1ocxnd</SessionID>
+<Summary>Some info was loged on Wednesday, May 06, 2015 3:13:59 PM</Summary>
+<Page>localhost/GoLiveCheckListHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/GoLiveCheckListHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/6/2015 3:14:05 PM</DateTime>
+<SessionID>5qtcijnvxfn54xckuh1ocxnd</SessionID>
+<Summary>Some info was loged on Wednesday, May 06, 2015 3:14:05 PM</Summary>
+<Page>localhost/GoLiveCheckListHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/GoLiveCheckListHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/GoLiveCheckListHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/6/2015 3:15:13 PM</DateTime>
+<SessionID>roxygofymmmxpwxwsfhu3xvy</SessionID>
+<Summary>Some info was loged on Wednesday, May 06, 2015 3:15:13 PM</Summary>
+<Page>localhost/GoLiveCheckListHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/GoLiveCheckListHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/6/2015 3:15:16 PM</DateTime>
+<SessionID>roxygofymmmxpwxwsfhu3xvy</SessionID>
+<Summary>Some info was loged on Wednesday, May 06, 2015 3:15:16 PM</Summary>
+<Page>localhost/GoLiveCheckListHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/GoLiveCheckListHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/GoLiveCheckListHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+

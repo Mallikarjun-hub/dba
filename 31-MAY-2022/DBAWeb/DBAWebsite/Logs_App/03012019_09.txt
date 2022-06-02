@@ -1,0 +1,29 @@
+<Activity>
+<DateTime>3/1/2019 9:57:11 AM</DateTime>
+<SessionID>qiitbjwsmvoylxqru5htqtf5</SessionID>
+<Summary>Some info was loged on Friday, March 1, 2019 9:57:11 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateQAFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: QA home screen Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateQAFormHomeScreen.aspx</URL>
+<HostIP>10.177.58.141</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/Default.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+

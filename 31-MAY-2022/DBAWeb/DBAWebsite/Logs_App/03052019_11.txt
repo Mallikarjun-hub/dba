@@ -1,0 +1,58 @@
+<Activity>
+<DateTime>3/5/2019 11:56:08 AM</DateTime>
+<SessionID>tu0ys114snv5iobuzdsk3anw</SessionID>
+<Summary>Some info was loged on Tuesday, March 5, 2019 11:56:08 AM</Summary>
+<Page>ustxri00dbamgt/DBAWeb/GoLiveCheckListHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/DBAWeb/GoLiveCheckListHomeScreen.aspx</URL>
+<HostIP>10.161.186.249</HostIP>
+<ReffererURL>ustxri00dbamgt/DBAWeb/</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>60.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/5/2019 11:56:13 AM</DateTime>
+<SessionID>tu0ys114snv5iobuzdsk3anw</SessionID>
+<Summary>Some info was loged on Tuesday, March 5, 2019 11:56:13 AM</Summary>
+<Page>ustxri00dbamgt/DBAWeb/GoLiveCheckListHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/DBAWeb/GoLiveCheckListHomeScreen.aspx</URL>
+<HostIP>10.161.186.249</HostIP>
+<ReffererURL>ustxri00dbamgt/DBAWeb/GoLiveCheckListHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>60.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+

@@ -1,0 +1,41 @@
+<Activity>
+<DateTime>12/12/2018 9:13:28 AM</DateTime>
+<SessionID>51h0xlrce5j0ykdxrkoqofei</SessionID>
+<Summary>Some info was loged on Wednesday, December 12, 2018 9:13:28 AM</Summary>
+<Page>ustxri00dbamgt/dbaweb/CreateQAFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: QA home screen Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateQAFormHomeScreen.aspx</URL>
+<HostIP>10.161.185.1</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateBuildFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>70.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>12/12/2018 9:13:45 AM</DateTime>
+<SessionID>51h0xlrce5j0ykdxrkoqofei</SessionID>
+<Summary>Some info was loged on Wednesday, December 12, 2018 9:13:45 AM</Summary>
+<Page>ustxri00dbamgt/dbaweb/BuildQAComparisonReport.aspx</Page>
+
+<Message>Successfully sent mail</Message>
+
+
+
+</Activity>
+

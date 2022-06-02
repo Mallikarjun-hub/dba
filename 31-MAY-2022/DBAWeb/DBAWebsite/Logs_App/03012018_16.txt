@@ -1,0 +1,1015 @@
+<Activity>
+<DateTime>3/1/2018 4:30:06 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:30:06 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/dbaweb/EditInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/dbaweb/EditInventoryFormHomeScreen.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:30:29 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:30:29 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/dbaweb/EditInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/dbaweb/EditInventoryFormHomeScreen.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/EditInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:30:43 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:30:43 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryFormHomeScreen.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/EditInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:30:46 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:30:46 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryFormHomeScreen.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:30:46 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:30:46 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:30:46 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:30:46 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:30:46 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:30:46 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:30:46 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:30:46 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:30:46 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:30:46 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:30:46 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:30:46 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:30:46 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:30:46 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:30:46 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:30:46 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:30:46 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:30:46 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:30:47 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:30:47 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:31:50 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:31:50 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:31:50 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:31:50 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:31:50 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:31:50 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:31:50 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:31:50 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:31:50 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:31:50 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:31:50 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:31:50 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:31:50 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:31:50 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:31:50 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:31:50 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:31:50 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:31:50 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:31:50 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:31:50 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:31:52 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:31:52 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:31:52 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:31:52 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:31:52 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:31:52 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:31:52 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:31:52 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:31:52 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:31:52 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:31:52 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:31:52 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:31:52 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:31:52 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:31:52 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:31:52 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:31:52 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:31:52 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:31:52 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:31:52 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateInventoryForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/1/2018 4:32:42 PM</DateTime>
+<SessionID>b3er3qgnn5f5mtanbozf0tvq</SessionID>
+<Summary>Some info was loged on Thursday, March 1, 2018 4:32:42 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildForm.aspx</URL>
+<HostIP>10.176.61.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/CreateBuildFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+

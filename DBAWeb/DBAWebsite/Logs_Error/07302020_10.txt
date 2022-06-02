@@ -1,0 +1,24 @@
+<Exception>
+<DateTime>7/30/2020 10:39:59 AM</DateTime>
+<SessionID>nzcomtwbjirdsbvw2qvaass3</SessionID>
+<Summary>An unhandled exception occured on Thursday, July 30, 2020 10:39:59 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/BuildQAComparisonReport.aspx</URL>
+<HostIP>10.190.63.197</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/BuildQAComparisonReportHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>80.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.ArgumentException: Column 'AccountsStoredS' does not belong to table .
+   at System.Data.DataRow.get_Item(String columnName)
+   at DBAWebsite.BuildQAComparisonReport.buildQAComparisonReport_build_lables_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\BuildQAComparisonReport.aspx.cs:line 164</ErrorMessage>
+
+</Exception>
+

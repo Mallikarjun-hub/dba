@@ -1,0 +1,116 @@
+<Activity>
+<DateTime>4/27/2015 12:41:56 PM</DateTime>
+<SessionID>a2velquhyttxnn4p3dufu2wd</SessionID>
+<Summary>Some info was loged on Monday, April 27, 2015 12:41:56 PM</Summary>
+<Page>localhost/EditInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/EditInventoryFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>4/27/2015 12:46:55 PM</DateTime>
+<SessionID>tikyupdmo31msostfntwe44h</SessionID>
+<Summary>Some info was loged on Monday, April 27, 2015 12:46:55 PM</Summary>
+<Page>localhost/EditInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/EditInventoryFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>4/27/2015 12:47:01 PM</DateTime>
+<SessionID>tikyupdmo31msostfntwe44h</SessionID>
+<Summary>Some info was loged on Monday, April 27, 2015 12:47:01 PM</Summary>
+<Page>localhost/EditInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/EditInventoryFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/EditInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>4/27/2015 12:47:01 PM</DateTime>
+<SessionID>tikyupdmo31msostfntwe44h</SessionID>
+<Summary>Some info was loged on Monday, April 27, 2015 12:47:01 PM</Summary>
+<Page>localhost/EditInventoryForm.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/EditInventoryForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/EditInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+

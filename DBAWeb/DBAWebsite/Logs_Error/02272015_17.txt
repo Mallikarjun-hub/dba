@@ -1,0 +1,67 @@
+<Exception>
+<DateTime>2/27/2015 5:04:52 PM</DateTime>
+<SessionID>tpcqm1bodssixmrm1dnoxg5o</SessionID>
+<Summary>An unhandled exception occured on Friday, February 27, 2015 5:04:52 PM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/DecommissionServerForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DecommissionServerForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Data.SqlClient.SqlException (0x80131904): The variable name '@sql_stopDate' has already been declared. Variable names must be unique within a query batch or stored procedure.
+Must declare the scalar variable "@status".
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DBAWebsite.DecommissionServerForm.submit_Click(Object sender, EventArgs e) in c:\Users\mpangulu\Downloads\ASP.NET Web Forms\C#\DBAWebsite\DecommissionServerForm.aspx.cs:line 156
+ClientConnectionId:024b8b6c-7716-4e34-a222-848439aff78e</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>2/27/2015 5:11:24 PM</DateTime>
+<SessionID>f0ube1rbe15miyxwtmhxfvu4</SessionID>
+<Summary>An unhandled exception occured on Friday, February 27, 2015 5:11:24 PM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/DecommissionServerForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DecommissionServerForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near ')'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DBAWebsite.DecommissionServerForm.submit_Click(Object sender, EventArgs e) in c:\Users\mpangulu\Downloads\ASP.NET Web Forms\C#\DBAWebsite\DecommissionServerForm.aspx.cs:line 156
+ClientConnectionId:4b6cde45-86ca-44f7-8d72-2a96806faaa8</ErrorMessage>
+
+</Exception>
+

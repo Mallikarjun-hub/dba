@@ -1,0 +1,26 @@
+<Exception>
+<DateTime>8/1/2019 11:35:00 AM</DateTime>
+<SessionID>azo3pxhboievulddi1jevcge</SessionID>
+<Summary>An unhandled exception occured on Thursday, August 1, 2019 11:35:00 AM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/dbaweb/UpgradeServerForm.aspx</URL>
+<HostIP>10.161.174.172</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/UpgradeServerForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>56.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Net.Mail.SmtpException: Insufficient system storage. The server response was: 4.3.1 Insufficient system resources (UsedVersionBuckets[D:\TransportRoles\data\queue\mail.que])
+   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at DBAWebsite.UpgradeServerForm.sendMainTask(Int32 result) in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\UpgradeServerForm.aspx.cs:line 367</ErrorMessage>
+
+</Exception>
+

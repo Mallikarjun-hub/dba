@@ -1,0 +1,2901 @@
+<Activity>
+<DateTime>5/5/2021 11:40:56 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:40:56 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/ApplicationsReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:41:11 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:41:11 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:41:11 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:41:11 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:41:11 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:41:11 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:41:12 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:41:12 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:41:12 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:41:12 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:41:12 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:41:12 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:41:12 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:41:12 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: Memory Capped Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:41:12 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:41:12 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:41:12 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:41:12 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:41:12 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:41:12 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:41:12 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:41:12 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:41:12 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:41:12 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:41:58 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:41:58 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/BuildQAComparisonReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:42:10 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:42:10 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:42:10 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:42:10 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:42:10 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:42:10 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:42:10 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:42:10 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:42:10 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:42:10 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:42:10 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:42:10 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:42:10 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:42:10 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: Memory Capped Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:42:10 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:42:10 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:42:10 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:42:10 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:42:10 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:42:10 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:42:10 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:42:10 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:42:10 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:42:10 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:42:42 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:42:42 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:42:42 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:42:42 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:42:42 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:42:42 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:42:43 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:42:43 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:42:43 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:42:43 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:42:43 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:42:43 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: Memory Capped Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:42:43 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:42:43 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:42:43 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:42:43 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:42:43 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:42:43 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:42:43 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:42:43 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:42:43 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:42:43 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:43:16 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:43:16 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/BuildQAComparisonReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:43:20 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:43:20 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:43:20 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:43:20 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:43:20 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:43:20 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:43:21 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:43:21 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:43:21 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:43:21 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:43:21 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:43:21 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:43:21 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:43:21 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: Memory Capped Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:43:21 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:43:21 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:43:21 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:43:21 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:43:21 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:43:21 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:43:21 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:43:21 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:43:21 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:43:21 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:45:06 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:45:06 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:45:06 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:45:06 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:45:06 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:45:06 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:45:06 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:45:06 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:45:06 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:45:06 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:45:06 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:45:06 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: Memory Capped Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:45:06 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:45:06 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:45:06 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:45:06 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:45:06 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:45:06 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:45:06 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:45:06 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:45:07 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:45:07 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:45:31 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:45:31 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/BuildQAComparisonReport.aspx</Page>
+
+<Message>Successfully sent mail</Message>
+
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:48:34 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:48:34 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:48:34 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:48:34 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:48:34 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:48:34 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:48:34 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:48:34 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:48:35 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:48:35 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:48:35 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:48:35 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: Memory Capped Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:48:35 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:48:35 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:48:35 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:48:35 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:48:35 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:48:35 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:48:35 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:48:35 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:48:35 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:48:35 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:48:59 AM</DateTime>
+<SessionID>3o3yhqupvdy4mq0hjw0tnjdr</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:48:59 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:48:59 AM</DateTime>
+<SessionID>3o3yhqupvdy4mq0hjw0tnjdr</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:48:59 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:48:59 AM</DateTime>
+<SessionID>3o3yhqupvdy4mq0hjw0tnjdr</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:48:59 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:48:59 AM</DateTime>
+<SessionID>3o3yhqupvdy4mq0hjw0tnjdr</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:48:59 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:48:59 AM</DateTime>
+<SessionID>3o3yhqupvdy4mq0hjw0tnjdr</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:48:59 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:48:59 AM</DateTime>
+<SessionID>3o3yhqupvdy4mq0hjw0tnjdr</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:48:59 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: Memory Capped Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:48:59 AM</DateTime>
+<SessionID>3o3yhqupvdy4mq0hjw0tnjdr</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:48:59 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:49:00 AM</DateTime>
+<SessionID>3o3yhqupvdy4mq0hjw0tnjdr</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:49:00 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:49:00 AM</DateTime>
+<SessionID>3o3yhqupvdy4mq0hjw0tnjdr</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:49:00 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:49:00 AM</DateTime>
+<SessionID>3o3yhqupvdy4mq0hjw0tnjdr</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:49:00 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:49:00 AM</DateTime>
+<SessionID>3o3yhqupvdy4mq0hjw0tnjdr</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:49:00 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:50:59 AM</DateTime>
+<SessionID>3o3yhqupvdy4mq0hjw0tnjdr</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:50:59 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:50:59 AM</DateTime>
+<SessionID>3o3yhqupvdy4mq0hjw0tnjdr</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:50:59 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:50:59 AM</DateTime>
+<SessionID>3o3yhqupvdy4mq0hjw0tnjdr</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:50:59 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:50:59 AM</DateTime>
+<SessionID>3o3yhqupvdy4mq0hjw0tnjdr</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:50:59 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:50:59 AM</DateTime>
+<SessionID>3o3yhqupvdy4mq0hjw0tnjdr</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:50:59 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:50:59 AM</DateTime>
+<SessionID>3o3yhqupvdy4mq0hjw0tnjdr</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:50:59 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: Memory Capped Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:50:59 AM</DateTime>
+<SessionID>3o3yhqupvdy4mq0hjw0tnjdr</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:50:59 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:50:59 AM</DateTime>
+<SessionID>3o3yhqupvdy4mq0hjw0tnjdr</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:50:59 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:50:59 AM</DateTime>
+<SessionID>3o3yhqupvdy4mq0hjw0tnjdr</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:50:59 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:50:59 AM</DateTime>
+<SessionID>3o3yhqupvdy4mq0hjw0tnjdr</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:50:59 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:50:59 AM</DateTime>
+<SessionID>3o3yhqupvdy4mq0hjw0tnjdr</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:50:59 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:52:09 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:52:09 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditBuildFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: QA home screen Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditBuildFormHomeScreen.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/ApplicationsReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:52:09 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:52:09 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditBuildFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditBuildFormHomeScreen.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/ApplicationsReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:52:13 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:52:13 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditBuildFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: QA home screen Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditBuildFormHomeScreen.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditBuildFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:52:13 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:52:13 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditBuildFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Inventory Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditBuildFormHomeScreen.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditBuildFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:52:13 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:52:13 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditBuildForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditBuildFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>90.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/5/2021 11:53:34 AM</DateTime>
+<SessionID>kw3ndtnz2z3oafx2m0fynwjz</SessionID>
+<Summary>Some info was loged on Wednesday, May 5, 2021 11:53:34 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/EditBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditBuildForm.aspx</URL>
+<HostIP>10.161.184.99</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/EditBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>85.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+

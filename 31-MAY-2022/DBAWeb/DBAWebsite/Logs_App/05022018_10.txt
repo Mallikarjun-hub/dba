@@ -1,0 +1,41 @@
+<Activity>
+<DateTime>5/2/2018 10:19:19 AM</DateTime>
+<SessionID>kgdhyeezxftjx2uvtqpbscxv</SessionID>
+<Summary>Some info was loged on Wednesday, May 2, 2018 10:19:19 AM</Summary>
+<Page>ustxri00dbamgt/dbaweb/CreateQAFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: QA home screen Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateQAFormHomeScreen.aspx</URL>
+<HostIP>10.161.186.156</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/OSInfoReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>58.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/2/2018 10:53:24 AM</DateTime>
+<SessionID>jn402xixk1v5wcxwzzoowa2y</SessionID>
+<Summary>Some info was loged on Wednesday, May 2, 2018 10:53:24 AM</Summary>
+<Page>ustxri00dbamgt/dbaweb/BuildQAComparisonReport.aspx</Page>
+
+<Message>Successfully sent mail</Message>
+
+
+
+</Activity>
+

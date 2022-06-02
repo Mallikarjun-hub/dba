@@ -1,0 +1,417 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{640F4FBA-136A-4387-A4F5-CD20E73D2641}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DBAWebsite</RootNamespace>
+    <AssemblyName>DBAWebsite</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <UseIISExpress>false</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication>disabled</IISExpressAnonymousAuthentication>
+    <IISExpressWindowsAuthentication>enabled</IISExpressWindowsAuthentication>
+    <IISExpressUseClassicPipelineMode />
+    <TargetFrameworkProfile />
+    <Use64BitIISExpress />
+    <UseGlobalApplicationHostFile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Account\ChangePassword.aspx" />
+    <Content Include="Account\ChangePasswordSuccess.aspx" />
+    <Content Include="Account\Login.aspx" />
+    <Content Include="Account\Register.aspx" />
+    <Content Include="ApplicationsReport.aspx" />
+    <Content Include="BuildQAComparisonReport.aspx" />
+    <Content Include="BuildQAComparisonReportHomeScreen.aspx" />
+    <Content Include="CreateBuildFormHomeScreen.aspx" />
+    <Content Include="CreateInventoryFormHomeScreen.aspx" />
+    <Content Include="CreateBuildForm.aspx" />
+    <Content Include="CreateQAForm.aspx" />
+    <Content Include="CreateQAFormHomeScreen.aspx" />
+    <Content Include="DecommissionServerForm.aspx" />
+    <Content Include="DecommissionServerFormHomeScreen.aspx" />
+    <Content Include="EditBuildForm.aspx" />
+    <Content Include="EditBuildFormHomeScreen.aspx" />
+    <Content Include="EditInventoryForm.aspx" />
+    <Content Include="EditInventoryFormHomeScreen.aspx" />
+    <Content Include="EditQAForm.aspx" />
+    <Content Include="EditQAFormHomeScreen.aspx" />
+    <Content Include="GoLiveCheckListForm.aspx" />
+    <Content Include="GoLiveCheckListHomeScreen.aspx" />
+    <Content Include="InventoryReport.aspx" />
+    <Content Include="Images\Database.jpg" />
+    <Content Include="CreateInventoryForm.aspx" />
+    <Content Include="LicenseForm.aspx" />
+    <Content Include="LicenseFormHomeScreen.aspx" />
+    <Content Include="LicenseReport.aspx" />
+    <Content Include="LicenseReportHomeScreen.aspx" />
+    <Content Include="MaintenanceReport.aspx" />
+    <Content Include="OSInfoReport.aspx" />
+    <Content Include="RebootReport.aspx" />
+    <Content Include="Styles\Site.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.4.1.js" />
+    <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="UpgradeServerForm.aspx" />
+    <Content Include="UpgradeServerFormHomeScreen.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Account\ChangePassword.aspx.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\ChangePassword.aspx.designer.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\ChangePasswordSuccess.aspx.cs">
+      <DependentUpon>ChangePasswordSuccess.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\ChangePasswordSuccess.aspx.designer.cs">
+      <DependentUpon>ChangePasswordSuccess.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Register.aspx.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\Register.aspx.designer.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ApplicationsReport.aspx.cs">
+      <DependentUpon>ApplicationsReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ApplicationsReport.aspx.designer.cs">
+      <DependentUpon>ApplicationsReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="APP\Logging.cs" />
+    <Compile Include="BuildQAComparisonReport.aspx.cs">
+      <DependentUpon>BuildQAComparisonReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BuildQAComparisonReport.aspx.designer.cs">
+      <DependentUpon>BuildQAComparisonReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BuildQAComparisonReportHomeScreen.aspx.cs">
+      <DependentUpon>BuildQAComparisonReportHomeScreen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BuildQAComparisonReportHomeScreen.aspx.designer.cs">
+      <DependentUpon>BuildQAComparisonReportHomeScreen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CreateBuildFormHomeScreen.aspx.cs">
+      <DependentUpon>CreateBuildFormHomeScreen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CreateBuildFormHomeScreen.aspx.designer.cs">
+      <DependentUpon>CreateBuildFormHomeScreen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CreateInventoryFormHomeScreen.aspx.cs">
+      <DependentUpon>CreateInventoryFormHomeScreen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CreateInventoryFormHomeScreen.aspx.designer.cs">
+      <DependentUpon>CreateInventoryFormHomeScreen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CreateQAForm.aspx.cs">
+      <DependentUpon>CreateQAForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CreateQAForm.aspx.designer.cs">
+      <DependentUpon>CreateQAForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CreateQAFormHomeScreen.aspx.cs">
+      <DependentUpon>CreateQAFormHomeScreen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CreateQAFormHomeScreen.aspx.designer.cs">
+      <DependentUpon>CreateQAFormHomeScreen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DecommissionServerForm.aspx.cs">
+      <DependentUpon>DecommissionServerForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DecommissionServerForm.aspx.designer.cs">
+      <DependentUpon>DecommissionServerForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DecommissionServerFormHomeScreen.aspx.cs">
+      <DependentUpon>DecommissionServerFormHomeScreen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DecommissionServerFormHomeScreen.aspx.designer.cs">
+      <DependentUpon>DecommissionServerFormHomeScreen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CreateBuildForm.aspx.cs">
+      <DependentUpon>CreateBuildForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CreateBuildForm.aspx.designer.cs">
+      <DependentUpon>CreateBuildForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditBuildForm.aspx.cs">
+      <DependentUpon>EditBuildForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditBuildForm.aspx.designer.cs">
+      <DependentUpon>EditBuildForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditBuildFormHomeScreen.aspx.cs">
+      <DependentUpon>EditBuildFormHomeScreen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditBuildFormHomeScreen.aspx.designer.cs">
+      <DependentUpon>EditBuildFormHomeScreen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditInventoryForm.aspx.cs">
+      <DependentUpon>EditInventoryForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditInventoryForm.aspx.designer.cs">
+      <DependentUpon>EditInventoryForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditInventoryFormHomeScreen.aspx.cs">
+      <DependentUpon>EditInventoryFormHomeScreen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditInventoryFormHomeScreen.aspx.designer.cs">
+      <DependentUpon>EditInventoryFormHomeScreen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditQAForm.aspx.cs">
+      <DependentUpon>EditQAForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditQAForm.aspx.designer.cs">
+      <DependentUpon>EditQAForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditQAFormHomeScreen.aspx.cs">
+      <DependentUpon>EditQAFormHomeScreen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditQAFormHomeScreen.aspx.designer.cs">
+      <DependentUpon>EditQAFormHomeScreen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="GoLiveCheckListForm.aspx.cs">
+      <DependentUpon>GoLiveCheckListForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GoLiveCheckListForm.aspx.designer.cs">
+      <DependentUpon>GoLiveCheckListForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GoLiveCheckListHomeScreen.aspx.cs">
+      <DependentUpon>GoLiveCheckListHomeScreen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GoLiveCheckListHomeScreen.aspx.designer.cs">
+      <DependentUpon>GoLiveCheckListHomeScreen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="InventoryReport.aspx.cs">
+      <DependentUpon>InventoryReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InventoryReport.aspx.designer.cs">
+      <DependentUpon>InventoryReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LicenseForm.aspx.cs">
+      <DependentUpon>LicenseForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LicenseForm.aspx.designer.cs">
+      <DependentUpon>LicenseForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LicenseFormHomeScreen.aspx.cs">
+      <DependentUpon>LicenseFormHomeScreen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LicenseFormHomeScreen.aspx.designer.cs">
+      <DependentUpon>LicenseFormHomeScreen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LicenseReport.aspx.cs">
+      <DependentUpon>LicenseReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LicenseReport.aspx.designer.cs">
+      <DependentUpon>LicenseReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LicenseReportHomeScreen.aspx.cs">
+      <DependentUpon>LicenseReportHomeScreen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LicenseReportHomeScreen.aspx.designer.cs">
+      <DependentUpon>LicenseReportHomeScreen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MaintenanceReport.aspx.cs">
+      <DependentUpon>MaintenanceReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MaintenanceReport.aspx.designer.cs">
+      <DependentUpon>MaintenanceReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OSInfoReport.aspx.cs">
+      <DependentUpon>OSInfoReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OSInfoReport.aspx.designer.cs">
+      <DependentUpon>OSInfoReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RebootReport.aspx.cs">
+      <DependentUpon>RebootReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RebootReport.aspx.designer.cs">
+      <DependentUpon>RebootReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="CreateInventoryForm.aspx.cs">
+      <DependentUpon>CreateInventoryForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CreateInventoryForm.aspx.designer.cs">
+      <DependentUpon>CreateInventoryForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UpgradeServerForm.aspx.cs">
+      <DependentUpon>UpgradeServerForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UpgradeServerForm.aspx.designer.cs">
+      <DependentUpon>UpgradeServerForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UpgradeServerFormHomeScreen.aspx.cs">
+      <DependentUpon>UpgradeServerFormHomeScreen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UpgradeServerFormHomeScreen.aspx.designer.cs">
+      <DependentUpon>UpgradeServerFormHomeScreen.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Account\Web.config" />
+    <Content Include="Site.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>1701</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

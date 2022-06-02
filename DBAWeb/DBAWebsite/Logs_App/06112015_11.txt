@@ -1,0 +1,58 @@
+<Activity>
+<DateTime>6/11/2015 11:43:41 AM</DateTime>
+<SessionID>d2w3mnjw3dad1uc3nydmjdhq</SessionID>
+<Summary>Some info was loged on Thursday, June 11, 2015 11:43:41 AM</Summary>
+<Page>ustxri00dbamgt/dbaweb/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateBuildForm.aspx</URL>
+<HostIP>10.172.202.59</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateBuildFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>43.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/11/2015 11:44:13 AM</DateTime>
+<SessionID>d2w3mnjw3dad1uc3nydmjdhq</SessionID>
+<Summary>Some info was loged on Thursday, June 11, 2015 11:44:13 AM</Summary>
+<Page>ustxri00dbamgt/DBAWeb/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/DBAWeb/CreateBuildForm.aspx</URL>
+<HostIP>10.172.202.59</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateBuildForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>43.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+

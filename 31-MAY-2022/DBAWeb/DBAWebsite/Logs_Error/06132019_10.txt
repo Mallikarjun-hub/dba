@@ -1,0 +1,242 @@
+<Exception>
+<DateTime>6/13/2019 10:14:13 AM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Thursday, June 13, 2019 10:14:13 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.NullReferenceException: Object reference not set to an instance of an object.
+   at DBAWebsite.CreateBuild.Resource_name_dropdownlist_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 169</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>6/13/2019 10:14:13 AM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Thursday, June 13, 2019 10:14:13 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.NullReferenceException: Object reference not set to an instance of an object.
+   at DBAWebsite.CreateBuild.sql_version_dropdownlist_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 350</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>6/13/2019 10:14:13 AM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Thursday, June 13, 2019 10:14:13 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.NullReferenceException: Object reference not set to an instance of an object.
+   at DBAWebsite.CreateBuild.monitor_tool_dropdownlist_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 380</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>6/13/2019 10:14:13 AM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Thursday, June 13, 2019 10:14:13 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.NullReferenceException: Object reference not set to an instance of an object.
+   at DBAWebsite.CreateBuild.high_availability_dropdownlist_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 410</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>6/13/2019 10:14:13 AM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Thursday, June 13, 2019 10:14:13 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.NullReferenceException: Object reference not set to an instance of an object.
+   at DBAWebsite.CreateBuild.dbadb_create_dropdownlist_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 200</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>6/13/2019 10:14:13 AM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Thursday, June 13, 2019 10:14:13 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.NullReferenceException: Object reference not set to an instance of an object.
+   at DBAWebsite.CreateBuild.memory_capped_dropdownlist_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 230</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>6/13/2019 10:14:13 AM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Thursday, June 13, 2019 10:14:13 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.NullReferenceException: Object reference not set to an instance of an object.
+   at DBAWebsite.CreateBuild.Initial_backup_dropdownlist_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 260</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>6/13/2019 10:14:13 AM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Thursday, June 13, 2019 10:14:13 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.NullReferenceException: Object reference not set to an instance of an object.
+   at DBAWebsite.CreateBuild.backup_scheduled_dropdownlist_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 290</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>6/13/2019 10:14:13 AM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Thursday, June 13, 2019 10:14:13 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.NullReferenceException: Object reference not set to an instance of an object.
+   at DBAWebsite.CreateBuild.drive_layout_dropdownlist_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 320</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>6/13/2019 10:14:13 AM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Thursday, June 13, 2019 10:14:13 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.NullReferenceException: Object reference not set to an instance of an object.
+   at DBAWebsite.CreateBuild.processors_core_acknowledge_dropdownlist_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 440</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>6/13/2019 10:14:13 AM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Thursday, June 13, 2019 10:14:13 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.NullReferenceException: Object reference not set to an instance of an object.
+   at DBAWebsite.CreateBuild.mail_setup_dropdownlist_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\CreateBuildForm.aspx.cs:line 471</ErrorMessage>
+
+</Exception>
+

@@ -1,0 +1,25 @@
+<Exception>
+<DateTime>6/21/2019 11:34:30 AM</DateTime>
+<SessionID>nws2qdt2fwqsjgwsiivjgmgb</SessionID>
+<Summary>An unhandled exception occured on Friday, June 21, 2019 11:34:30 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/BuildQAComparisonReport.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/BuildQAComparisonReportHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.ArgumentException: Column 'MemoryCorrect' does not belong to table .
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at DBAWebsite.BuildQAComparisonReport.buildQAComparisonReport_build_lables_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\BuildQAComparisonReport.aspx.cs:line 150</ErrorMessage>
+
+</Exception>
+

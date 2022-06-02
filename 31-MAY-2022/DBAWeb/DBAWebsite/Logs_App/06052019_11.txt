@@ -1,0 +1,56 @@
+<Activity>
+<DateTime>6/5/2019 11:04:56 AM</DateTime>
+<SessionID>f3eylehf01zvnmdqoabhgsv4</SessionID>
+<Summary>Some info was loged on Wednesday, June 5, 2019 11:04:56 AM</Summary>
+<Page>localhost/EditInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: QA home screen Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/EditInventoryFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/5/2019 11:06:01 AM</DateTime>
+<SessionID>f3eylehf01zvnmdqoabhgsv4</SessionID>
+<Summary>Some info was loged on Wednesday, June 5, 2019 11:06:01 AM</Summary>
+<Page>localhost/EditInventoryFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: QA home screen Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/EditInventoryFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>74.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+

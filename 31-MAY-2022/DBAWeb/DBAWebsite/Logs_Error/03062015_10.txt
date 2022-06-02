@@ -1,0 +1,117 @@
+<Exception>
+<DateTime>3/6/2015 10:01:18 AM</DateTime>
+<SessionID>pp1ost43kcknh3ccv4jb41vg</SessionID>
+<Summary>An unhandled exception occured on Friday, March 06, 2015 10:01:18 AM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/BuildQAComparisonReport.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/BuildQAComparisonReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at System.Data.SqlClient.SqlConnection.PermissionDemand()
+   at System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at DBAWebsite.BuildQAComparisonReport.btn_compare_Click(Object sender, EventArgs e) in c:\Users\mpangulu\Downloads\ASP.NET Web Forms\C#\DBAWebsite\BuildQAComparisonReport.aspx.cs:line 100</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>3/6/2015 10:03:10 AM</DateTime>
+<SessionID>nj5ypxzldgos4yozqewxhaid</SessionID>
+<Summary>An unhandled exception occured on Friday, March 06, 2015 10:03:10 AM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/BuildQAComparisonReport.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/BuildQAComparisonReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at System.Data.SqlClient.SqlConnection.PermissionDemand()
+   at System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at DBAWebsite.BuildQAComparisonReport.btn_compare_Click(Object sender, EventArgs e) in c:\Users\mpangulu\Downloads\ASP.NET Web Forms\C#\DBAWebsite\BuildQAComparisonReport.aspx.cs:line 100</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>3/6/2015 10:04:26 AM</DateTime>
+<SessionID>yy5cv3irlkf2jqmloykkkz02</SessionID>
+<Summary>An unhandled exception occured on Friday, March 06, 2015 10:04:26 AM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/BuildQAComparisonReport.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/BuildQAComparisonReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.NullReferenceException: Object reference not set to an instance of an object.
+   at DBAWebsite.BuildQAComparisonReport.btn_compare_Click(Object sender, EventArgs e) in c:\Users\mpangulu\Downloads\ASP.NET Web Forms\C#\DBAWebsite\BuildQAComparisonReport.aspx.cs:line 101</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>3/6/2015 10:07:51 AM</DateTime>
+<SessionID>bxslzf2gsdjuetutgsmk5gwk</SessionID>
+<Summary>An unhandled exception occured on Friday, March 06, 2015 10:07:51 AM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/BuildQAComparisonReport.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/BuildQAComparisonReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Data.SqlClient.SqlException (0x80131904): Violation of PRIMARY KEY constraint 'PK_InventoryTracking'. Cannot insert duplicate key in object 'dbo.InventoryTracking'. The duplicate key value is (testServer).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DBAWebsite.BuildQAComparisonReport.btn_compare_Click(Object sender, EventArgs e) in c:\Users\mpangulu\Downloads\ASP.NET Web Forms\C#\DBAWebsite\BuildQAComparisonReport.aspx.cs:line 101
+ClientConnectionId:3ea9b782-c898-415f-ae2a-9e9b2ffa7ff7</ErrorMessage>
+
+</Exception>
+

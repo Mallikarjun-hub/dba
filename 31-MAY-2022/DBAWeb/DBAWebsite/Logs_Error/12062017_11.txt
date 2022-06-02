@@ -1,0 +1,81 @@
+<Exception>
+<DateTime>12/6/2017 11:04:33 AM</DateTime>
+<SessionID>i3ymowwqechsstftydu01xea</SessionID>
+<Summary>An unhandled exception occured on Wednesday, December 6, 2017 11:04:33 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateQAForm.aspx</URL>
+<HostIP>10.161.174.134</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>56.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Web.HttpException (0x80004005): DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'SQl Version'.
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at DBAWebsite.CreateQAForm.sql_version_dropdownlist_DataBinding() in h:\DBAWebsite\CreateQAForm.aspx.cs:line 328</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>12/6/2017 11:19:34 AM</DateTime>
+<SessionID>i3ymowwqechsstftydu01xea</SessionID>
+<Summary>An unhandled exception occured on Wednesday, December 6, 2017 11:19:34 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateQAForm.aspx</URL>
+<HostIP>10.161.174.134</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>56.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Web.HttpException (0x80004005): DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'SQl Version'.
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at DBAWebsite.CreateQAForm.sql_version_dropdownlist_DataBinding() in h:\DBAWebsite\CreateQAForm.aspx.cs:line 328</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>12/6/2017 11:20:16 AM</DateTime>
+<SessionID>i3ymowwqechsstftydu01xea</SessionID>
+<Summary>An unhandled exception occured on Wednesday, December 6, 2017 11:20:16 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateQAForm.aspx</URL>
+<HostIP>10.161.174.134</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>56.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Web.HttpException (0x80004005): DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'SQl Version'.
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at DBAWebsite.CreateQAForm.sql_version_dropdownlist_DataBinding() in h:\DBAWebsite\CreateQAForm.aspx.cs:line 328</ErrorMessage>
+
+</Exception>
+

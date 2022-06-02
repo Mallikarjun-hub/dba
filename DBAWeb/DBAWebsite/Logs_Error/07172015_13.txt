@@ -1,0 +1,992 @@
+<Exception>
+<DateTime>7/17/2015 1:21:36 PM</DateTime>
+<SessionID>25cebpgczb0iov4isjxz4mpk</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:21:36 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateInventoryFormHomeScreen.aspx</URL>
+<HostIP>172.27.188.174</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.UnauthorizedAccessException: Access to the path 'H:\DBAWeb\DBAWebsite\Logs_App\07172015_13.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at DBAWebsite.APP.Logging.WriteToFile(StringBuilder stb, Boolean info) in h:\DBAWebsite\APP\Logging.cs:line 90
+   at DBAWebsite.APP.Logging.LogInfo(String info, Boolean includeAdditionalInfo) in h:\DBAWebsite\APP\Logging.cs:line 200
+   at DBAWebsite.CreateInventoryHomeScreen.Server_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryFormHomeScreen.aspx.cs:line 40</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>7/17/2015 1:21:39 PM</DateTime>
+<SessionID>25cebpgczb0iov4isjxz4mpk</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:21:39 PM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateInventoryFormHomeScreen.aspx</URL>
+<HostIP>172.27.188.174</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.UnauthorizedAccessException: Access to the path 'H:\DBAWeb\DBAWebsite\Logs_App\07172015_13.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at DBAWebsite.APP.Logging.WriteToFile(StringBuilder stb, Boolean info) in h:\DBAWebsite\APP\Logging.cs:line 90
+   at DBAWebsite.APP.Logging.LogInfo(String info, Boolean includeAdditionalInfo) in h:\DBAWebsite\APP\Logging.cs:line 200
+   at DBAWebsite.CreateInventoryHomeScreen.Server_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryFormHomeScreen.aspx.cs:line 40</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>7/17/2015 1:21:39 PM</DateTime>
+<SessionID>25cebpgczb0iov4isjxz4mpk</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:21:39 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>172.27.188.174</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.UnauthorizedAccessException: Access to the path 'H:\DBAWeb\DBAWebsite\Logs_App\07172015_13.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at DBAWebsite.APP.Logging.WriteToFile(StringBuilder stb, Boolean info) in h:\DBAWebsite\APP\Logging.cs:line 90
+   at DBAWebsite.APP.Logging.LogInfo(String info, Boolean includeAdditionalInfo) in h:\DBAWebsite\APP\Logging.cs:line 200
+   at DBAWebsite.CreateInventory.backup_type_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 226</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>7/17/2015 1:21:39 PM</DateTime>
+<SessionID>25cebpgczb0iov4isjxz4mpk</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:21:39 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>172.27.188.174</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.UnauthorizedAccessException: Access to the path 'H:\DBAWeb\DBAWebsite\Logs_App\07172015_13.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at DBAWebsite.APP.Logging.WriteToFile(StringBuilder stb, Boolean info) in h:\DBAWebsite\APP\Logging.cs:line 90
+   at DBAWebsite.APP.Logging.LogInfo(String info, Boolean includeAdditionalInfo) in h:\DBAWebsite\APP\Logging.cs:line 200
+   at DBAWebsite.CreateInventory.Business_contact_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 254</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>7/17/2015 1:21:39 PM</DateTime>
+<SessionID>25cebpgczb0iov4isjxz4mpk</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:21:39 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>172.27.188.174</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.UnauthorizedAccessException: Access to the path 'H:\DBAWeb\DBAWebsite\Logs_App\07172015_13.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at DBAWebsite.APP.Logging.WriteToFile(StringBuilder stb, Boolean info) in h:\DBAWebsite\APP\Logging.cs:line 90
+   at DBAWebsite.APP.Logging.LogInfo(String info, Boolean includeAdditionalInfo) in h:\DBAWebsite\APP\Logging.cs:line 200
+   at DBAWebsite.CreateInventory.location_id_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 281</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>7/17/2015 1:21:39 PM</DateTime>
+<SessionID>25cebpgczb0iov4isjxz4mpk</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:21:39 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>172.27.188.174</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.UnauthorizedAccessException: Access to the path 'H:\DBAWeb\DBAWebsite\Logs_App\07172015_13.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at DBAWebsite.APP.Logging.WriteToFile(StringBuilder stb, Boolean info) in h:\DBAWebsite\APP\Logging.cs:line 90
+   at DBAWebsite.APP.Logging.LogInfo(String info, Boolean includeAdditionalInfo) in h:\DBAWebsite\APP\Logging.cs:line 200
+   at DBAWebsite.CreateInventory.application_info_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 309</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>7/17/2015 1:21:39 PM</DateTime>
+<SessionID>25cebpgczb0iov4isjxz4mpk</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:21:39 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>172.27.188.174</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.UnauthorizedAccessException: Access to the path 'H:\DBAWeb\DBAWebsite\Logs_App\07172015_13.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at DBAWebsite.APP.Logging.WriteToFile(StringBuilder stb, Boolean info) in h:\DBAWebsite\APP\Logging.cs:line 90
+   at DBAWebsite.APP.Logging.LogInfo(String info, Boolean includeAdditionalInfo) in h:\DBAWebsite\APP\Logging.cs:line 200
+   at DBAWebsite.CreateInventory.ITcontact_person_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 169</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>7/17/2015 1:21:39 PM</DateTime>
+<SessionID>25cebpgczb0iov4isjxz4mpk</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:21:39 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>172.27.188.174</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.UnauthorizedAccessException: Access to the path 'H:\DBAWeb\DBAWebsite\Logs_App\07172015_13.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at DBAWebsite.APP.Logging.WriteToFile(StringBuilder stb, Boolean info) in h:\DBAWebsite\APP\Logging.cs:line 90
+   at DBAWebsite.APP.Logging.LogInfo(String info, Boolean includeAdditionalInfo) in h:\DBAWebsite\APP\Logging.cs:line 200
+   at DBAWebsite.CreateInventory.ITcontact_team_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 141</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>7/17/2015 1:21:39 PM</DateTime>
+<SessionID>25cebpgczb0iov4isjxz4mpk</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:21:39 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>172.27.188.174</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.UnauthorizedAccessException: Access to the path 'H:\DBAWeb\DBAWebsite\Logs_App\07172015_13.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at DBAWebsite.APP.Logging.WriteToFile(StringBuilder stb, Boolean info) in h:\DBAWebsite\APP\Logging.cs:line 90
+   at DBAWebsite.APP.Logging.LogInfo(String info, Boolean includeAdditionalInfo) in h:\DBAWebsite\APP\Logging.cs:line 200
+   at DBAWebsite.CreateInventory.Location_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 85</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>7/17/2015 1:21:39 PM</DateTime>
+<SessionID>25cebpgczb0iov4isjxz4mpk</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:21:39 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>172.27.188.174</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.UnauthorizedAccessException: Access to the path 'H:\DBAWeb\DBAWebsite\Logs_App\07172015_13.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at DBAWebsite.APP.Logging.WriteToFile(StringBuilder stb, Boolean info) in h:\DBAWebsite\APP\Logging.cs:line 90
+   at DBAWebsite.APP.Logging.LogInfo(String info, Boolean includeAdditionalInfo) in h:\DBAWebsite\APP\Logging.cs:line 200
+   at DBAWebsite.CreateInventory.Inventory_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 58</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>7/17/2015 1:21:39 PM</DateTime>
+<SessionID>25cebpgczb0iov4isjxz4mpk</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:21:39 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>172.27.188.174</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.UnauthorizedAccessException: Access to the path 'H:\DBAWeb\DBAWebsite\Logs_App\07172015_13.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at DBAWebsite.APP.Logging.WriteToFile(StringBuilder stb, Boolean info) in h:\DBAWebsite\APP\Logging.cs:line 90
+   at DBAWebsite.APP.Logging.LogInfo(String info, Boolean includeAdditionalInfo) in h:\DBAWebsite\APP\Logging.cs:line 200
+   at DBAWebsite.CreateInventory.Environment_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 114</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>7/17/2015 1:21:39 PM</DateTime>
+<SessionID>25cebpgczb0iov4isjxz4mpk</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:21:39 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>172.27.188.174</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.UnauthorizedAccessException: Access to the path 'H:\DBAWeb\DBAWebsite\Logs_App\07172015_13.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at DBAWebsite.APP.Logging.WriteToFile(StringBuilder stb, Boolean info) in h:\DBAWebsite\APP\Logging.cs:line 90
+   at DBAWebsite.APP.Logging.LogInfo(String info, Boolean includeAdditionalInfo) in h:\DBAWebsite\APP\Logging.cs:line 200
+   at DBAWebsite.CreateInventory.sox_complaint_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 198</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>7/17/2015 1:21:54 PM</DateTime>
+<SessionID>25cebpgczb0iov4isjxz4mpk</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:21:54 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/LicenseForm.aspx</URL>
+<HostIP>172.27.188.174</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/LicenseFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.UnauthorizedAccessException: Access to the path 'H:\DBAWeb\DBAWebsite\Logs_App\07172015_13.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at DBAWebsite.APP.Logging.WriteToFile(StringBuilder stb, Boolean info) in h:\DBAWebsite\APP\Logging.cs:line 90
+   at DBAWebsite.APP.Logging.LogInfo(String info, Boolean includeAdditionalInfo) in h:\DBAWebsite\APP\Logging.cs:line 200
+   at DBAWebsite.LicenseForm.licenseCategory_dropdownlist_dataBinding() in h:\DBAWebsite\LicenseForm.aspx.cs:line 52</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>7/17/2015 1:21:54 PM</DateTime>
+<SessionID>25cebpgczb0iov4isjxz4mpk</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:21:54 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/LicenseForm.aspx</URL>
+<HostIP>172.27.188.174</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/LicenseFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.UnauthorizedAccessException: Access to the path 'H:\DBAWeb\DBAWebsite\Logs_App\07172015_13.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at DBAWebsite.APP.Logging.WriteToFile(StringBuilder stb, Boolean info) in h:\DBAWebsite\APP\Logging.cs:line 90
+   at DBAWebsite.APP.Logging.LogInfo(String info, Boolean includeAdditionalInfo) in h:\DBAWebsite\APP\Logging.cs:line 200
+   at DBAWebsite.LicenseForm.contactPerson_dropdownlist_dataBinding() in h:\DBAWebsite\LicenseForm.aspx.cs:line 83</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>7/17/2015 1:22:04 PM</DateTime>
+<SessionID>25cebpgczb0iov4isjxz4mpk</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:22:04 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/ApplicationsReport.aspx</URL>
+<HostIP>172.27.188.174</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/Default.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'Server Name'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at DBAWebsite.ApplicationsReport.bind() in h:\DBAWebsite\ApplicationsReport.aspx.cs:line 33
+ClientConnectionId:052a0175-04de-4c0c-ae02-f35e4df83abf
+Error Number:207,State:1,Class:16</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>7/17/2015 1:22:52 PM</DateTime>
+<SessionID>25cebpgczb0iov4isjxz4mpk</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:22:52 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/ApplicationsReport.aspx</URL>
+<HostIP>172.27.188.174</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/Default.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'Server Name'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at DBAWebsite.ApplicationsReport.bind() in h:\DBAWebsite\ApplicationsReport.aspx.cs:line 33
+ClientConnectionId:052a0175-04de-4c0c-ae02-f35e4df83abf
+Error Number:207,State:1,Class:16</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>7/17/2015 1:23:20 PM</DateTime>
+<SessionID>25cebpgczb0iov4isjxz4mpk</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:23:20 PM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/dbaweb/ApplicationsReport.aspx</URL>
+<HostIP>172.27.188.174</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/ApplicationsReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'Server Name'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at DBAWebsite.ApplicationsReport.bind() in h:\DBAWebsite\ApplicationsReport.aspx.cs:line 33
+ClientConnectionId:052a0175-04de-4c0c-ae02-f35e4df83abf
+Error Number:207,State:1,Class:16</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>7/17/2015 1:27:36 PM</DateTime>
+<SessionID>ufs1owuuohjckg143okfo0st</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:27:36 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/ApplicationsReport.aspx</URL>
+<HostIP>10.172.202.23</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>43.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'Server Name'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at DBAWebsite.ApplicationsReport.bind() in h:\DBAWebsite\ApplicationsReport.aspx.cs:line 33
+ClientConnectionId:052a0175-04de-4c0c-ae02-f35e4df83abf
+Error Number:207,State:1,Class:16</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>7/17/2015 1:37:59 PM</DateTime>
+<SessionID>ufs1owuuohjckg143okfo0st</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:37:59 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateInventoryFormHomeScreen.aspx</URL>
+<HostIP>10.172.202.23</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>43.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.UnauthorizedAccessException: Access to the path 'H:\DBAWeb\DBAWebsite\Logs_App\07172015_13.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at DBAWebsite.APP.Logging.WriteToFile(StringBuilder stb, Boolean info) in h:\DBAWebsite\APP\Logging.cs:line 90
+   at DBAWebsite.APP.Logging.LogInfo(String info, Boolean includeAdditionalInfo) in h:\DBAWebsite\APP\Logging.cs:line 200
+   at DBAWebsite.CreateInventoryHomeScreen.Server_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryFormHomeScreen.aspx.cs:line 40</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>7/17/2015 1:38:02 PM</DateTime>
+<SessionID>ufs1owuuohjckg143okfo0st</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:38:02 PM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateInventoryFormHomeScreen.aspx</URL>
+<HostIP>10.172.202.23</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>43.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.UnauthorizedAccessException: Access to the path 'H:\DBAWeb\DBAWebsite\Logs_App\07172015_13.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at DBAWebsite.APP.Logging.WriteToFile(StringBuilder stb, Boolean info) in h:\DBAWebsite\APP\Logging.cs:line 90
+   at DBAWebsite.APP.Logging.LogInfo(String info, Boolean includeAdditionalInfo) in h:\DBAWebsite\APP\Logging.cs:line 200
+   at DBAWebsite.CreateInventoryHomeScreen.Server_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryFormHomeScreen.aspx.cs:line 40</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>7/17/2015 1:38:02 PM</DateTime>
+<SessionID>ufs1owuuohjckg143okfo0st</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:38:02 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.172.202.23</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>43.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.UnauthorizedAccessException: Access to the path 'H:\DBAWeb\DBAWebsite\Logs_App\07172015_13.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at DBAWebsite.APP.Logging.WriteToFile(StringBuilder stb, Boolean info) in h:\DBAWebsite\APP\Logging.cs:line 90
+   at DBAWebsite.APP.Logging.LogInfo(String info, Boolean includeAdditionalInfo) in h:\DBAWebsite\APP\Logging.cs:line 200
+   at DBAWebsite.CreateInventory.backup_type_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 226</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>7/17/2015 1:38:02 PM</DateTime>
+<SessionID>ufs1owuuohjckg143okfo0st</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:38:02 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.172.202.23</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>43.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.UnauthorizedAccessException: Access to the path 'H:\DBAWeb\DBAWebsite\Logs_App\07172015_13.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at DBAWebsite.APP.Logging.WriteToFile(StringBuilder stb, Boolean info) in h:\DBAWebsite\APP\Logging.cs:line 90
+   at DBAWebsite.APP.Logging.LogInfo(String info, Boolean includeAdditionalInfo) in h:\DBAWebsite\APP\Logging.cs:line 200
+   at DBAWebsite.CreateInventory.Business_contact_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 254</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>7/17/2015 1:38:02 PM</DateTime>
+<SessionID>ufs1owuuohjckg143okfo0st</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:38:02 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.172.202.23</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>43.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.UnauthorizedAccessException: Access to the path 'H:\DBAWeb\DBAWebsite\Logs_App\07172015_13.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at DBAWebsite.APP.Logging.WriteToFile(StringBuilder stb, Boolean info) in h:\DBAWebsite\APP\Logging.cs:line 90
+   at DBAWebsite.APP.Logging.LogInfo(String info, Boolean includeAdditionalInfo) in h:\DBAWebsite\APP\Logging.cs:line 200
+   at DBAWebsite.CreateInventory.location_id_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 281</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>7/17/2015 1:38:02 PM</DateTime>
+<SessionID>ufs1owuuohjckg143okfo0st</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:38:02 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.172.202.23</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>43.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.UnauthorizedAccessException: Access to the path 'H:\DBAWeb\DBAWebsite\Logs_App\07172015_13.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at DBAWebsite.APP.Logging.WriteToFile(StringBuilder stb, Boolean info) in h:\DBAWebsite\APP\Logging.cs:line 90
+   at DBAWebsite.APP.Logging.LogInfo(String info, Boolean includeAdditionalInfo) in h:\DBAWebsite\APP\Logging.cs:line 200
+   at DBAWebsite.CreateInventory.application_info_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 309</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>7/17/2015 1:38:02 PM</DateTime>
+<SessionID>ufs1owuuohjckg143okfo0st</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:38:02 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.172.202.23</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>43.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.UnauthorizedAccessException: Access to the path 'H:\DBAWeb\DBAWebsite\Logs_App\07172015_13.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at DBAWebsite.APP.Logging.WriteToFile(StringBuilder stb, Boolean info) in h:\DBAWebsite\APP\Logging.cs:line 90
+   at DBAWebsite.APP.Logging.LogInfo(String info, Boolean includeAdditionalInfo) in h:\DBAWebsite\APP\Logging.cs:line 200
+   at DBAWebsite.CreateInventory.ITcontact_person_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 169</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>7/17/2015 1:38:02 PM</DateTime>
+<SessionID>ufs1owuuohjckg143okfo0st</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:38:02 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.172.202.23</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>43.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.UnauthorizedAccessException: Access to the path 'H:\DBAWeb\DBAWebsite\Logs_App\07172015_13.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at DBAWebsite.APP.Logging.WriteToFile(StringBuilder stb, Boolean info) in h:\DBAWebsite\APP\Logging.cs:line 90
+   at DBAWebsite.APP.Logging.LogInfo(String info, Boolean includeAdditionalInfo) in h:\DBAWebsite\APP\Logging.cs:line 200
+   at DBAWebsite.CreateInventory.ITcontact_team_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 141</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>7/17/2015 1:38:02 PM</DateTime>
+<SessionID>ufs1owuuohjckg143okfo0st</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:38:02 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.172.202.23</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>43.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.UnauthorizedAccessException: Access to the path 'H:\DBAWeb\DBAWebsite\Logs_App\07172015_13.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at DBAWebsite.APP.Logging.WriteToFile(StringBuilder stb, Boolean info) in h:\DBAWebsite\APP\Logging.cs:line 90
+   at DBAWebsite.APP.Logging.LogInfo(String info, Boolean includeAdditionalInfo) in h:\DBAWebsite\APP\Logging.cs:line 200
+   at DBAWebsite.CreateInventory.Location_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 85</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>7/17/2015 1:38:02 PM</DateTime>
+<SessionID>ufs1owuuohjckg143okfo0st</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:38:02 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.172.202.23</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>43.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.UnauthorizedAccessException: Access to the path 'H:\DBAWeb\DBAWebsite\Logs_App\07172015_13.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at DBAWebsite.APP.Logging.WriteToFile(StringBuilder stb, Boolean info) in h:\DBAWebsite\APP\Logging.cs:line 90
+   at DBAWebsite.APP.Logging.LogInfo(String info, Boolean includeAdditionalInfo) in h:\DBAWebsite\APP\Logging.cs:line 200
+   at DBAWebsite.CreateInventory.Inventory_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 58</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>7/17/2015 1:38:02 PM</DateTime>
+<SessionID>ufs1owuuohjckg143okfo0st</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:38:02 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.172.202.23</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>43.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.UnauthorizedAccessException: Access to the path 'H:\DBAWeb\DBAWebsite\Logs_App\07172015_13.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at DBAWebsite.APP.Logging.WriteToFile(StringBuilder stb, Boolean info) in h:\DBAWebsite\APP\Logging.cs:line 90
+   at DBAWebsite.APP.Logging.LogInfo(String info, Boolean includeAdditionalInfo) in h:\DBAWebsite\APP\Logging.cs:line 200
+   at DBAWebsite.CreateInventory.Environment_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 114</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>7/17/2015 1:38:02 PM</DateTime>
+<SessionID>ufs1owuuohjckg143okfo0st</SessionID>
+<Summary>An unhandled exception occured on Friday, July 17, 2015 1:38:02 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.172.202.23</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>43.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.UnauthorizedAccessException: Access to the path 'H:\DBAWeb\DBAWebsite\Logs_App\07172015_13.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at DBAWebsite.APP.Logging.WriteToFile(StringBuilder stb, Boolean info) in h:\DBAWebsite\APP\Logging.cs:line 90
+   at DBAWebsite.APP.Logging.LogInfo(String info, Boolean includeAdditionalInfo) in h:\DBAWebsite\APP\Logging.cs:line 200
+   at DBAWebsite.CreateInventory.sox_complaint_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 198</ErrorMessage>
+
+</Exception>
+

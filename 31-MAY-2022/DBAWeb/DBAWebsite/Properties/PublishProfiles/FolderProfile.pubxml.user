@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\PCarney\Desktop\published site</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Account/ChangePassword.aspx">
+      <publishTime>05/04/2015 10:01:07</publishTime>
+    </File>
+    <File Include="Account/ChangePasswordSuccess.aspx">
+      <publishTime>05/04/2015 10:01:07</publishTime>
+    </File>
+    <File Include="Account/Login.aspx">
+      <publishTime>05/04/2015 10:01:07</publishTime>
+    </File>
+    <File Include="Account/Register.aspx">
+      <publishTime>05/04/2015 10:01:07</publishTime>
+    </File>
+    <File Include="Account/Web.config">
+      <publishTime>05/04/2015 10:01:07</publishTime>
+    </File>
+    <File Include="ApplicationsReport.aspx">
+      <publishTime>07/16/2015 16:57:17</publishTime>
+    </File>
+    <File Include="bin/DBAWebsite.dll">
+      <publishTime>06/10/2019 07:10:05</publishTime>
+    </File>
+    <File Include="bin/DBAWebsite.pdb">
+      <publishTime>06/10/2019 07:10:05</publishTime>
+    </File>
+    <File Include="BuildQAComparisonReport.aspx">
+      <publishTime>05/04/2015 10:01:06</publishTime>
+    </File>
+    <File Include="BuildQAComparisonReportHomeScreen.aspx">
+      <publishTime>05/04/2015 10:01:06</publishTime>
+    </File>
+    <File Include="CreateBuildForm.aspx">
+      <publishTime>05/04/2015 10:01:06</publishTime>
+    </File>
+    <File Include="CreateBuildFormHomeScreen.aspx">
+      <publishTime>05/04/2015 10:01:06</publishTime>
+    </File>
+    <File Include="CreateInventoryForm.aspx">
+      <publishTime>05/08/2015 10:55:23</publishTime>
+    </File>
+    <File Include="CreateInventoryFormHomeScreen.aspx">
+      <publishTime>05/04/2015 10:01:06</publishTime>
+    </File>
+    <File Include="CreateQAForm.aspx">
+      <publishTime>05/04/2015 10:01:06</publishTime>
+    </File>
+    <File Include="CreateQAFormHomeScreen.aspx">
+      <publishTime>05/04/2015 10:01:06</publishTime>
+    </File>
+    <File Include="DecommissionServerForm.aspx">
+      <publishTime>05/04/2015 10:01:07</publishTime>
+    </File>
+    <File Include="DecommissionServerFormHomeScreen.aspx">
+      <publishTime>05/04/2015 10:01:07</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>05/04/2015 10:01:07</publishTime>
+    </File>
+    <File Include="EditBuildForm.aspx">
+      <publishTime>05/01/2015 11:15:21</publishTime>
+    </File>
+    <File Include="EditBuildFormHomeScreen.aspx">
+      <publishTime>05/01/2015 10:30:42</publishTime>
+    </File>
+    <File Include="EditInventoryForm.aspx">
+      <publishTime>04/27/2015 13:57:25</publishTime>
+    </File>
+    <File Include="EditInventoryFormHomeScreen.aspx">
+      <publishTime>04/27/2015 12:38:36</publishTime>
+    </File>
+    <File Include="EditQAForm.aspx">
+      <publishTime>05/01/2015 14:18:37</publishTime>
+    </File>
+    <File Include="EditQAFormHomeScreen.aspx">
+      <publishTime>05/01/2015 14:11:45</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>05/04/2015 10:01:07</publishTime>
+    </File>
+    <File Include="GoLiveCheckListForm.aspx">
+      <publishTime>05/08/2015 13:57:10</publishTime>
+    </File>
+    <File Include="GoLiveCheckListHomeScreen.aspx">
+      <publishTime>05/01/2015 15:24:09</publishTime>
+    </File>
+    <File Include="Images/Database.jpg">
+      <publishTime>05/04/2015 10:01:08</publishTime>
+    </File>
+    <File Include="InventoryReport.aspx">
+      <publishTime>05/08/2015 14:24:42</publishTime>
+    </File>
+    <File Include="LicenseForm.aspx">
+      <publishTime>04/24/2015 09:36:09</publishTime>
+    </File>
+    <File Include="LicenseFormHomeScreen.aspx">
+      <publishTime>04/24/2015 09:36:27</publishTime>
+    </File>
+    <File Include="LicenseReport.aspx">
+      <publishTime>05/08/2015 14:25:21</publishTime>
+    </File>
+    <File Include="LicenseReportHomeScreen.aspx">
+      <publishTime>05/04/2015 10:01:07</publishTime>
+    </File>
+    <File Include="MaintenanceReport.aspx">
+      <publishTime>05/08/2015 14:25:27</publishTime>
+    </File>
+    <File Include="OSInfoReport.aspx">
+      <publishTime>05/08/2015 14:23:52</publishTime>
+    </File>
+    <File Include="RebootReport.aspx">
+      <publishTime>05/08/2015 09:41:19</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1-vsdoc.js">
+      <publishTime>05/04/2015 10:01:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.js">
+      <publishTime>05/04/2015 10:01:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.min.js">
+      <publishTime>05/04/2015 10:01:08</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>07/17/2015 11:43:07</publishTime>
+    </File>
+    <File Include="Styles/Site.css">
+      <publishTime>05/04/2015 10:01:08</publishTime>
+    </File>
+    <File Include="UpgradeServerForm.aspx">
+      <publishTime>05/04/2015 10:01:07</publishTime>
+    </File>
+    <File Include="UpgradeServerFormHomeScreen.aspx">
+      <publishTime>05/04/2015 10:01:07</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/06/2019 09:43:08</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

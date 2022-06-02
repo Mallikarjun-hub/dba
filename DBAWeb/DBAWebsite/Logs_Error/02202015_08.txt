@@ -1,0 +1,27 @@
+<Exception>
+<DateTime>2/20/2015 8:45:40 AM</DateTime>
+<SessionID>cfdfx3uki3vxvl1mpebfsaur</SessionID>
+<Summary>An unhandled exception occured on Friday, February 20, 2015 8:45:40 AM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/BuildQAComparisonReport.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/BuildQAComparisonReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Net.Mail.SmtpException: Server does not support secure connections.
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at DBAWebsite.BuildQAComparisonReport.btn_send_Click(Object sender, EventArgs e) in c:\Users\mpangulu\Downloads\ASP.NET Web Forms\C#\DBAWebsite\BuildQAComparisonReport.aspx.cs:line 41</ErrorMessage>
+
+</Exception>
+

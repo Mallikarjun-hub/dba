@@ -1,0 +1,1348 @@
+<Activity>
+<DateTime>5/11/2015 2:11:35 PM</DateTime>
+<SessionID>2zdi1aj5qo5tqiszhvvceu2i</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:11:35 PM</Summary>
+<Page>localhost/CreateQAFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: QA home screen Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:11:39 PM</DateTime>
+<SessionID>2zdi1aj5qo5tqiszhvvceu2i</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:11:39 PM</Summary>
+<Page>localhost/CreateQAFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: QA home screen Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/CreateQAFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:11:39 PM</DateTime>
+<SessionID>2zdi1aj5qo5tqiszhvvceu2i</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:11:39 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:11:39 PM</DateTime>
+<SessionID>2zdi1aj5qo5tqiszhvvceu2i</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:11:39 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:11:39 PM</DateTime>
+<SessionID>2zdi1aj5qo5tqiszhvvceu2i</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:11:39 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: Memory Capped Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:11:39 PM</DateTime>
+<SessionID>2zdi1aj5qo5tqiszhvvceu2i</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:11:39 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:11:39 PM</DateTime>
+<SessionID>2zdi1aj5qo5tqiszhvvceu2i</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:11:39 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:11:39 PM</DateTime>
+<SessionID>2zdi1aj5qo5tqiszhvvceu2i</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:11:39 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:18:00 PM</DateTime>
+<SessionID>uihdqqpewlte3i41tlh53ohx</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:18:00 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:18:00 PM</DateTime>
+<SessionID>uihdqqpewlte3i41tlh53ohx</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:18:00 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:18:00 PM</DateTime>
+<SessionID>uihdqqpewlte3i41tlh53ohx</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:18:00 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:18:00 PM</DateTime>
+<SessionID>uihdqqpewlte3i41tlh53ohx</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:18:00 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: Memory Capped Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:18:00 PM</DateTime>
+<SessionID>uihdqqpewlte3i41tlh53ohx</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:18:00 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:18:00 PM</DateTime>
+<SessionID>uihdqqpewlte3i41tlh53ohx</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:18:00 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:18:00 PM</DateTime>
+<SessionID>uihdqqpewlte3i41tlh53ohx</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:18:00 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:36:09 PM</DateTime>
+<SessionID>lvd40wff3dnsz3algzsts44l</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:36:09 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:36:09 PM</DateTime>
+<SessionID>lvd40wff3dnsz3algzsts44l</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:36:09 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:36:09 PM</DateTime>
+<SessionID>lvd40wff3dnsz3algzsts44l</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:36:09 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:36:09 PM</DateTime>
+<SessionID>lvd40wff3dnsz3algzsts44l</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:36:09 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:36:09 PM</DateTime>
+<SessionID>lvd40wff3dnsz3algzsts44l</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:36:09 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: Memory Capped Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:36:09 PM</DateTime>
+<SessionID>lvd40wff3dnsz3algzsts44l</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:36:09 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:36:09 PM</DateTime>
+<SessionID>lvd40wff3dnsz3algzsts44l</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:36:09 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:36:09 PM</DateTime>
+<SessionID>lvd40wff3dnsz3algzsts44l</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:36:09 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:36:16 PM</DateTime>
+<SessionID>lvd40wff3dnsz3algzsts44l</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:36:16 PM</Summary>
+<Page>localhost/CreateQAFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: QA home screen Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateQAForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:36:22 PM</DateTime>
+<SessionID>lvd40wff3dnsz3algzsts44l</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:36:22 PM</Summary>
+<Page>localhost/CreateQAFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: QA home screen Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/CreateQAFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:36:22 PM</DateTime>
+<SessionID>lvd40wff3dnsz3algzsts44l</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:36:22 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:36:22 PM</DateTime>
+<SessionID>lvd40wff3dnsz3algzsts44l</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:36:22 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:36:22 PM</DateTime>
+<SessionID>lvd40wff3dnsz3algzsts44l</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:36:22 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:36:22 PM</DateTime>
+<SessionID>lvd40wff3dnsz3algzsts44l</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:36:22 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:36:22 PM</DateTime>
+<SessionID>lvd40wff3dnsz3algzsts44l</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:36:22 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: Memory Capped Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:36:22 PM</DateTime>
+<SessionID>lvd40wff3dnsz3algzsts44l</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:36:22 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:36:22 PM</DateTime>
+<SessionID>lvd40wff3dnsz3algzsts44l</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:36:22 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:36:22 PM</DateTime>
+<SessionID>lvd40wff3dnsz3algzsts44l</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:36:22 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:46:58 PM</DateTime>
+<SessionID>jch54c0pddfvdzqjr1lfnz1q</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:46:58 PM</Summary>
+<Page>localhost/CreateQAFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: QA home screen Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:47:04 PM</DateTime>
+<SessionID>jch54c0pddfvdzqjr1lfnz1q</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:47:04 PM</Summary>
+<Page>localhost/CreateQAFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: QA home screen Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>localhost/CreateQAFormHomeScreen.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:47:04 PM</DateTime>
+<SessionID>jch54c0pddfvdzqjr1lfnz1q</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:47:04 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:47:04 PM</DateTime>
+<SessionID>jch54c0pddfvdzqjr1lfnz1q</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:47:04 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:47:04 PM</DateTime>
+<SessionID>jch54c0pddfvdzqjr1lfnz1q</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:47:04 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:47:04 PM</DateTime>
+<SessionID>jch54c0pddfvdzqjr1lfnz1q</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:47:04 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:47:04 PM</DateTime>
+<SessionID>jch54c0pddfvdzqjr1lfnz1q</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:47:04 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:47:04 PM</DateTime>
+<SessionID>jch54c0pddfvdzqjr1lfnz1q</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:47:04 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: Memory Capped Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:47:04 PM</DateTime>
+<SessionID>jch54c0pddfvdzqjr1lfnz1q</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:47:04 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:47:04 PM</DateTime>
+<SessionID>jch54c0pddfvdzqjr1lfnz1q</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:47:04 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:47:04 PM</DateTime>
+<SessionID>jch54c0pddfvdzqjr1lfnz1q</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:47:04 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:47:04 PM</DateTime>
+<SessionID>jch54c0pddfvdzqjr1lfnz1q</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:47:04 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:47:04 PM</DateTime>
+<SessionID>jch54c0pddfvdzqjr1lfnz1q</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:47:04 PM</Summary>
+<Page>localhost/CreateQAForm.aspx</Page>
+
+<Message>Successful binding on: QA Drop Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateQAForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateQAFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>5/11/2015 2:57:11 PM</DateTime>
+<SessionID>nktvj3cy2nxipzfrgng2myam</SessionID>
+<Summary>Some info was loged on Monday, May 11, 2015 2:57:11 PM</Summary>
+<Page>localhost/CreateBuildForm.aspx</Page>
+
+<Message>Successful binding on: Build Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>localhost/CreateBuildForm.aspx</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/CreateBuildFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>1</ElementsInCache>
+
+
+</Activity>
+

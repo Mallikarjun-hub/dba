@@ -1,0 +1,70 @@
+<Activity>
+<DateTime>6/23/2020 5:09:12 PM</DateTime>
+<SessionID>j1vwipk1mylx0jrmzpvf0oea</SessionID>
+<Summary>Some info was loged on Tuesday, June 23, 2020 5:09:12 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/DecommissionServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: decommission home screen Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/DecommissionServerFormHomeScreen.aspx</URL>
+<HostIP>10.190.62.245</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/Default.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>83.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/23/2020 5:09:54 PM</DateTime>
+<SessionID>j1vwipk1mylx0jrmzpvf0oea</SessionID>
+<Summary>Some info was loged on Tuesday, June 23, 2020 5:09:54 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/DecommissionServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: decommission home screen Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/DecommissionServerFormHomeScreen.aspx</URL>
+<HostIP>10.190.62.245</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/DecommissionServerFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>83.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/23/2020 5:10:57 PM</DateTime>
+<SessionID>j1vwipk1mylx0jrmzpvf0oea</SessionID>
+<Summary>Some info was loged on Tuesday, June 23, 2020 5:10:57 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/DecommissionServerForm.aspx</Page>
+
+<Message>Successfully sent mail</Message>
+
+
+
+</Activity>
+

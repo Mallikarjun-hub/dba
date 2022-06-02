@@ -1,0 +1,29 @@
+<Activity>
+<DateTime>9/14/2016 2:46:26 PM</DateTime>
+<SessionID>istegw1pak20oeebn0qcmxrt</SessionID>
+<Summary>Some info was loged on Wednesday, September 14, 2016 2:46:26 PM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/dbaweb/GoLiveCheckListHomeScreen.aspx</Page>
+
+<Message>Successful binding on: Server Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/dbaweb/GoLiveCheckListHomeScreen.aspx</URL>
+<HostIP>10.211.110.66</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/dbaweb/ApplicationsReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+

@@ -1,0 +1,48 @@
+<Exception>
+<DateTime>1/28/2021 4:07:26 PM</DateTime>
+<SessionID>ljlkvqndd3wl1v1hudj11t3k</SessionID>
+<Summary>An unhandled exception occured on Thursday, January 28, 2021 4:07:26 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/BuildQAComparisonReport.aspx</URL>
+<HostIP>10.190.63.60</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/BuildQAComparisonReportHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>80.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.ArgumentException: Column 'AccountsStoredS' does not belong to table .
+   at System.Data.DataRow.get_Item(String columnName)
+   at DBAWebsite.BuildQAComparisonReport.buildQAComparisonReport_build_lables_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\BuildQAComparisonReport.aspx.cs:line 164</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>1/28/2021 4:07:39 PM</DateTime>
+<SessionID>ljlkvqndd3wl1v1hudj11t3k</SessionID>
+<Summary>An unhandled exception occured on Thursday, January 28, 2021 4:07:39 PM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/DBAWeb/BuildQAComparisonReport.aspx</URL>
+<HostIP>10.190.63.60</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/BuildQAComparisonReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>80.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.ArgumentException: Column 'AccountsStoredS' does not belong to table .
+   at System.Data.DataRow.get_Item(String columnName)
+   at DBAWebsite.BuildQAComparisonReport.buildQAComparisonReport_build_lables_DataBinding() in C:\Users\PCarney\Desktop\DBAWeb\DBAWebsite\BuildQAComparisonReport.aspx.cs:line 164</ErrorMessage>
+
+</Exception>
+

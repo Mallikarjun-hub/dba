@@ -1,0 +1,270 @@
+<Exception>
+<DateTime>5/12/2015 11:26:44 AM</DateTime>
+<SessionID>qslppeiyazdk1a35pcz3oosl</SessionID>
+<Summary>An unhandled exception occured on Tuesday, May 12, 2015 11:26:44 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/DBAWeb/CreateInventoryForm.aspx</URL>
+<HostIP>10.172.202.71</HostIP>
+<ReffererURL>ustxri00dbamgt/DBAWeb/BuildQAComparisonReportHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Web.HttpException (0x80004005): DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Site Name'.
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at DBAWebsite.CreateInventory.Location_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 84</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>5/12/2015 11:33:29 AM</DateTime>
+<SessionID>loj55iloemspgk2dzd1y150t</SessionID>
+<Summary>An unhandled exception occured on Tuesday, May 12, 2015 11:33:29 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.172.203.53</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>42.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Web.HttpException (0x80004005): DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Site Name'.
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at DBAWebsite.CreateInventory.Location_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 84</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>5/12/2015 11:50:08 AM</DateTime>
+<SessionID>loj55iloemspgk2dzd1y150t</SessionID>
+<Summary>An unhandled exception occured on Tuesday, May 12, 2015 11:50:08 AM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</URL>
+<HostIP>10.172.203.53</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>42.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Web.HttpException (0x80004005): DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Site Name'.
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at DBAWebsite.CreateInventory.Location_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 84</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>5/12/2015 11:50:09 AM</DateTime>
+<SessionID>loj55iloemspgk2dzd1y150t</SessionID>
+<Summary>An unhandled exception occured on Tuesday, May 12, 2015 11:50:09 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/DBAWeb/CreateInventoryForm.aspx</URL>
+<HostIP>10.172.203.53</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>42.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Web.HttpException (0x80004005): DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Site Name'.
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at DBAWebsite.CreateInventory.Location_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 84</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>5/12/2015 11:52:40 AM</DateTime>
+<SessionID>loj55iloemspgk2dzd1y150t</SessionID>
+<Summary>An unhandled exception occured on Tuesday, May 12, 2015 11:52:40 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/DBAWeb/CreateInventoryForm.aspx</URL>
+<HostIP>10.172.203.53</HostIP>
+<ReffererURL>ustxri00dbamgt/DBAWeb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>42.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Web.HttpException (0x80004005): DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Site Name'.
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at DBAWebsite.CreateInventory.Location_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 84</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>5/12/2015 11:55:29 AM</DateTime>
+<SessionID>loj55iloemspgk2dzd1y150t</SessionID>
+<Summary>An unhandled exception occured on Tuesday, May 12, 2015 11:55:29 AM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/DBAWeb/CreateInventoryForm.aspx</URL>
+<HostIP>10.172.203.53</HostIP>
+<ReffererURL>ustxri00dbamgt/DBAWeb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>42.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Web.HttpException (0x80004005): DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Site Name'.
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at DBAWebsite.CreateInventory.Location_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 84</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>5/12/2015 11:55:30 AM</DateTime>
+<SessionID>loj55iloemspgk2dzd1y150t</SessionID>
+<Summary>An unhandled exception occured on Tuesday, May 12, 2015 11:55:30 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/DBAWeb/CreateInventoryForm.aspx</URL>
+<HostIP>10.172.203.53</HostIP>
+<ReffererURL>ustxri00dbamgt/DBAWeb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>42.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Web.HttpException (0x80004005): DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Site Name'.
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at DBAWebsite.CreateInventory.Location_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 84</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>5/12/2015 11:56:28 AM</DateTime>
+<SessionID>loj55iloemspgk2dzd1y150t</SessionID>
+<Summary>An unhandled exception occured on Tuesday, May 12, 2015 11:56:28 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/DBAWeb/CreateInventoryForm.aspx</URL>
+<HostIP>10.172.203.53</HostIP>
+<ReffererURL>ustxri00dbamgt/DBAWeb/CreateInventoryFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>42.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Web.HttpException (0x80004005): DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Site Name'.
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at DBAWebsite.CreateInventory.Location_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 84</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>5/12/2015 11:57:21 AM</DateTime>
+<SessionID>loj55iloemspgk2dzd1y150t</SessionID>
+<Summary>An unhandled exception occured on Tuesday, May 12, 2015 11:57:21 AM</Summary>
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt/DBAWeb/CreateInventoryForm.aspx</URL>
+<HostIP>10.172.203.53</HostIP>
+<ReffererURL>ustxri00dbamgt/DBAWeb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>42.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Web.HttpException (0x80004005): DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Site Name'.
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at DBAWebsite.CreateInventory.Location_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 84</ErrorMessage>
+
+</Exception>
+
+<Exception>
+<DateTime>5/12/2015 11:57:23 AM</DateTime>
+<SessionID>loj55iloemspgk2dzd1y150t</SessionID>
+<Summary>An unhandled exception occured on Tuesday, May 12, 2015 11:57:23 AM</Summary>
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/DBAWeb/CreateInventoryForm.aspx</URL>
+<HostIP>10.172.203.53</HostIP>
+<ReffererURL>ustxri00dbamgt/DBAWeb/CreateInventoryForm.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>42.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User>Guest</User>
+<ErrorMessage>System.Web.HttpException (0x80004005): DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Site Name'.
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at DBAWebsite.CreateInventory.Location_dropdownlist_DataBinding() in h:\DBAWebsite\CreateInventoryForm.aspx.cs:line 84</ErrorMessage>
+
+</Exception>
+

@@ -1,0 +1,24 @@
+<Activity>
+<DateTime>4/1/2015 9:18:05 AM</DateTime>
+<SessionID>qartw3eefcvoiwlx5xenm1c0</SessionID>
+<Summary>Some info was loged on Wednesday, April 01, 2015 9:18:05 AM</Summary>
+<Page>localhost/BuildQAComparisonReport.aspx</Page>
+
+<Message>Successfully sent mail</Message>
+
+
+
+</Activity>
+
+<Activity>
+<DateTime>4/1/2015 9:20:02 AM</DateTime>
+<SessionID>cift11clwkrdgzk4gchykkdy</SessionID>
+<Summary>Some info was loged on Wednesday, April 01, 2015 9:20:02 AM</Summary>
+<Page>localhost/BuildQAComparisonReport.aspx</Page>
+
+<Message>Successfully sent mail</Message>
+
+
+
+</Activity>
+

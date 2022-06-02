@@ -1,0 +1,99 @@
+<Activity>
+<DateTime>3/16/2017 9:03:48 AM</DateTime>
+<SessionID>i1mlzy0fq4klphh4ugggf0s2</SessionID>
+<Summary>Some info was loged on Thursday, March 16, 2017 9:03:48 AM</Summary>
+<Page>ustxri00dbamgt/dbaweb/DecommissionServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: decommission home screen Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/DecommissionServerFormHomeScreen.aspx</URL>
+<HostIP>10.161.174.183</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/OSInfoReport.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>Chrome</Name>
+<Version>53.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/16/2017 9:42:11 AM</DateTime>
+<SessionID>snwlkxe2ewhghjzszmfmwdcn</SessionID>
+<Summary>Some info was loged on Thursday, March 16, 2017 9:42:11 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/DecommissionServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: decommission home screen Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/DecommissionServerFormHomeScreen.aspx</URL>
+<HostIP>10.211.99.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/Default.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/16/2017 9:43:01 AM</DateTime>
+<SessionID>snwlkxe2ewhghjzszmfmwdcn</SessionID>
+<Summary>Some info was loged on Thursday, March 16, 2017 9:43:01 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/DecommissionServerFormHomeScreen.aspx</Page>
+
+<Message>Successful binding on: decommission home screen Dropdown</Message>
+
+<Info>
+<Verb>POST</Verb>
+<URL>ustxri00dbamgt.global.corp.prod/DBAWeb/DecommissionServerFormHomeScreen.aspx</URL>
+<HostIP>10.211.99.3</HostIP>
+<ReffererURL>ustxri00dbamgt.global.corp.prod/DBAWeb/DecommissionServerFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>InternetExplorer</Name>
+<Version>11.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>3/16/2017 9:44:24 AM</DateTime>
+<SessionID>snwlkxe2ewhghjzszmfmwdcn</SessionID>
+<Summary>Some info was loged on Thursday, March 16, 2017 9:44:24 AM</Summary>
+<Page>ustxri00dbamgt.global.corp.prod/DBAWeb/DecommissionServerForm.aspx</Page>
+
+<Message>Successfully sent mail</Message>
+
+
+
+</Activity>
+

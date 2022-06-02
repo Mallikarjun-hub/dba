@@ -1,0 +1,58 @@
+<Activity>
+<DateTime>6/26/2015 5:57:10 PM</DateTime>
+<SessionID>e04mcrmpadoyhltaxvilwwjg</SessionID>
+<Summary>Some info was loged on Friday, June 26, 2015 5:57:10 PM</Summary>
+<Page>ustxri00dbamgt/dbaweb/LicenseForm.aspx</Page>
+
+<Message>Successful binding on: License_Category Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/LicenseForm.aspx</URL>
+<HostIP>172.27.188.124</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/LicenseFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
+<Activity>
+<DateTime>6/26/2015 5:57:10 PM</DateTime>
+<SessionID>e04mcrmpadoyhltaxvilwwjg</SessionID>
+<Summary>Some info was loged on Friday, June 26, 2015 5:57:10 PM</Summary>
+<Page>ustxri00dbamgt/dbaweb/LicenseForm.aspx</Page>
+
+<Message>Successful binding on: contactPerson Dropdown</Message>
+
+<Info>
+<Verb>GET</Verb>
+<URL>ustxri00dbamgt/dbaweb/LicenseForm.aspx</URL>
+<HostIP>172.27.188.124</HostIP>
+<ReffererURL>ustxri00dbamgt/dbaweb/LicenseFormHomeScreen.aspx</ReffererURL>
+</Info>
+<Browser>
+<Name>IE</Name>
+<Version>7.0</Version>
+<CookieSupport>True</CookieSupport>
+<JSSupport>True</JSSupport>
+<Platform>WinNT</Platform>
+</Browser>
+<User type="Guest">Guest</User>
+
+<ElementsInSession>1</ElementsInSession>
+<ElementsInCache>0</ElementsInCache>
+
+
+</Activity>
+
